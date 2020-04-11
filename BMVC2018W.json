@@ -1,0 +1,4727 @@
+{
+  "bmvc2018_main_learningtogenerateandreconstruct3dmesheswithonly2dsupervision": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Learning to Generate and Reconstruct 3D Meshes with only 2D Supervision",
+    "authors": [
+      "Paul Henderson",
+      "Vittorio Ferrari"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0139.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_lienetreal-timemonocularobjectinstance6dposeestimation": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "LieNet: Real-time Monocular Object Instance 6D Pose Estimation",
+    "authors": [
+      "Thanh-Toan Do",
+      "Trung Pham",
+      "Ming Cai",
+      "Ian Reid"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0694.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_scenecoordinateandcorrespondencelearningforimage-basedlocalization": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Scene Coordinate and Correspondence Learning for Image-Based Localization",
+    "authors": [
+      "Mai Bui",
+      "Shadi Albarqouni",
+      "Slobodan Ilic",
+      "Nassir Navab"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0523.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_non-smoothm-estimatorformaximumconsensusestimation": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Non-smooth M-estimator for Maximum Consensus Estimation",
+    "authors": [
+      "Huu  Le",
+      "Anders Eriksson",
+      "Thanh-Toan Do",
+      "Tat-Jun Chin",
+      "David Suter"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0568.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_deepnetworkforsimultaneousstereomatchinganddehazing": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Deep Network for Simultaneous Stereo Matching and Dehazing",
+    "authors": [
+      "Taeyong Song",
+      "Youngjung Kim",
+      "Changjae Oh",
+      "Kwanghoon Sohn"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0852.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_sampleaheadonlineclassifier-samplercommunicationforlearningfromsynthesizeddata": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "SampleAhead: Online Classifier-Sampler Communication for Learning from Synthesized Data",
+    "authors": [
+      "Qi Chen",
+      "Weichao Qiu",
+      "Yi Zhang",
+      "Lingxi Xie",
+      "Alan Yuille"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0227.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_inductivevisuallocalisationfactorisedtrainingforsuperiorgeneralisation": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Inductive Visual Localisation: Factorised Training for Superior Generalisation",
+    "authors": [
+      "Ankush Gupta",
+      "Andrea Vedaldi",
+      "Andrew Zisserman"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0111.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_equalbutnotthesameunderstandingtheimplicitrelationshipbetweenpersuasiveimagesandtext": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Equal But Not The Same: Understanding the Implicit Relationship Between Persuasive Images and Text",
+    "authors": [
+      "Mingda Zhang",
+      "Rebecca Hwa",
+      "Adriana Kovashka"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0228.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_multi-taskmid-levelfeaturealignmentnetworkforunsupervisedcross-datasetpersonre-identification": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Multi-task Mid-level Feature Alignment Network for Unsupervised Cross-Dataset Person Re-Identification",
+    "authors": [
+      "Shan Lin",
+      "Haoliang  Li",
+      "Chang-Tsun Li",
+      "Alex Kot"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0244.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_ensemblenetimprovinggraspdetectionusinganensembleofconvolutionalneuralnetworks": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "EnsembleNet: Improving Grasp Detection using an Ensemble of Convolutional Neural Networks",
+    "authors": [
+      "Umar Asif",
+      "Jianbin Tang",
+      "Stefan Harrer"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0322.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_motionestimationandsegmentationofnaturalphenomena": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Motion Estimation and Segmentation of Natural Phenomena",
+    "authors": [
+      "Da Chen",
+      "Wenbin Li",
+      "Peter Hall"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0333.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_vse++improvingvisual-semanticembeddingswithhardnegatives": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "VSE++: Improving Visual-Semantic Embeddings with Hard Negatives",
+    "authors": [
+      "Fartash Faghri",
+      "David Fleet",
+      "Jamie Kiros",
+      "Sanja Fidler"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0344.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_learningtodoodlewithstrokedemonstrationsanddeepq-networks": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Learning to Doodle with Stroke Demonstrations and Deep Q-Networks",
+    "authors": [
+      "Tao Zhou",
+      "CHEN FANG",
+      "Zhaowen Wang",
+      "Jimei Yang",
+      "Byungmoon Kim",
+      "Zhili Chen",
+      "Jonathan Brandt",
+      "Demetri Terzopoulos"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0356.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_propagatingconfidencesthroughcnnsforsparsedataregression": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Propagating Confidences through CNNs for Sparse Data Regression",
+    "authors": [
+      "Abdelrahman Eldesokey",
+      "Michael Felsberg",
+      "Fahad Shahbaz Khan"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0591.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_recognitionself-awarenessforactiveobjectrecognitionondepthimages": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Recognition self-awareness for active object recognition on depth images",
+    "authors": [
+      "Andrea Roberti",
+      "Marco Carletti",
+      "Francesco Setti",
+      "Umberto Castellani",
+      "Paolo Fiorini",
+      "Marco Cristani"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0593.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_openlogodetectionchallenge": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Open Logo Detection Challenge",
+    "authors": [
+      "Hang Su",
+      "Xiatian Zhu",
+      "Shaogang Gong"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0663.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_bambottleneckattentionmodule": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "BAM: Bottleneck Attention Module",
+    "authors": [
+      "Jongchan Park",
+      "Sanghyun Woo",
+      "Joon-Young Lee",
+      "In So Kweon"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0092.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_threeforoneandoneforthreeflow,segmentation,andsurfacenormals": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Three for one and one for three: Flow, Segmentation, and Surface Normals",
+    "authors": [
+      "Hoang-An Le",
+      "Anil S Baslamisli",
+      "Thomas Mensink",
+      "Theo Gevers"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0201.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_contextnetexploringcontextanddetail\\\\forsemanticsegmentationinreal-time": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "ContextNet: Exploring Context and Detail \\\\for Semantic Segmentation in Real-time",
+    "authors": [
+      "Rudra P K Poudel",
+      "Ujwal Bonde",
+      "Stephan Liwicki",
+      "Christopher Zach"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0286.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_efficientprogressiveneuralarchitecturesearch": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Efficient Progressive Neural Architecture Search",
+    "authors": [
+      "Juan-Manuel Perez-Rua",
+      "Moez Baccouche",
+      "Stephane Pateux"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0291.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_learningontheedgeexplicitboundaryhandlingincnns": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Learning on the Edge: Explicit Boundary Handling in CNNs",
+    "authors": [
+      "Carlo Innamorati",
+      "Niloy Mitra"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0471.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_structuredprobabilisticpruningforconvolutionalneuralnetworkacceleration": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Structured Probabilistic Pruning for Convolutional Neural Network Acceleration",
+    "authors": [
+      "\"Huan Wang",
+      "Qiming Zhang",
+      "Yuehai Wang",
+      "Haoji Hu"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0870.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_riserandomizedinputsamplingforexplanationofblack-boxmodels": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "RISE: Randomized Input Sampling for Explanation of Black-box Models",
+    "authors": [
+      "Vitali Petsiuk",
+      "Abir Das",
+      "Kate Saenko"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/1064.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_asymmetricgeodesicdistancepropagationforactivecontours": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Asymmetric Geodesic Distance Propagation for Active Contours",
+    "authors": [
+      "Da CHEN",
+      "Jack A Spencer",
+      "Jean-Marie Mirebeau",
+      "Ke Chen",
+      "Laurent Cohen"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0005.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_icaninstance-centricattentionnetworkforhuman-objectinteractiondetection": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "iCAN: Instance-Centric Attention Network for Human-Object Interaction Detection",
+    "authors": [
+      "Chen Gao",
+      "Yuliang Zou",
+      "Jia-Bin Huang"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0017.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_parallelseparable3dconvolutionforvideoandvolumetricdataunderstanding": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Parallel Separable 3D Convolution for Video and Volumetric Data Understanding",
+    "authors": [
+      "Felix Gonda",
+      "Donglai Wei",
+      "Toufiq Parag",
+      "hanspeter pfister"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0022.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_semanticembeddingforsketch-based3dshaperetrieval": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Semantic Embedding for Sketch-Based 3D Shape Retrieval",
+    "authors": [
+      "Anran Qi",
+      "Yi-Zhe Song",
+      "Tao Xiang"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0040.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_unconstrainedcontroloffeaturemapsizeusingnon-integerstridedsampling": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Unconstrained Control of Feature Map Size Using Non-integer Strided Sampling",
+    "authors": [
+      "Donggyu Joo",
+      "Junho Yim",
+      "Junmo Kim"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0058.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_massdisplacementnetworks": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Mass Displacement Networks",
+    "authors": [
+      "Natalia Neverova",
+      "Iasonas Kokkinos"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0060.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_efficientcorrectionforemconnectomicswithskeletalrepresentation": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Efficient Correction for EM Connectomics with Skeletal Representation",
+    "authors": [
+      "Konstantin Dimitriev",
+      "Toufiq Parag",
+      "Brian Matejek",
+      "Arie Kaufman",
+      "Hanspeter Pfister"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0064.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_deepassociationlearningforunsupervisedvideopersonre-identification": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Deep Association Learning for Unsupervised Video Person Re-identification",
+    "authors": [
+      "Yanbei Chen",
+      "Xiatian Zhu",
+      "Shaogang Gong"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0066.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_estimatingsmalldifferencesincar-posefromorbits": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Estimating small differences in car-pose from orbits",
+    "authors": [
+      "Berkay Kicanaoglu",
+      "Ran Tao",
+      "Arnold W.M. Smeulders"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0069.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_weakly-supervisedvideoobjectgroundingfromtextbylossweightingandobjectinteraction": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Weakly-Supervised Video Object Grounding from Text by Loss Weighting and Object Interaction",
+    "authors": [
+      "Luowei Zhou",
+      "Nathan Louis",
+      "Jason J Corso"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0070.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_improvingimageclusteringwithmultiplepretrainedcnnfeatureextractors": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Improving Image Clustering With Multiple Pretrained CNN Feature Extractors",
+    "authors": [
+      "Joris Guerin",
+      "Byron Boots"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0071.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_informeddemocracyvoting-basednoveltydetectionforactionrecognition": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Informed Democracy: Voting-based Novelty Detection for Action Recognition",
+    "authors": [
+      "Alina Roitberg",
+      "Ziad Al-Halah",
+      "Rainer Stiefelhagen"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0083.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_poseflowefficientonlineposetracking": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Pose Flow: Efficient Online Pose Tracking",
+    "authors": [
+      "Yuliang Xiu",
+      "Jiefeng Li",
+      "Haoyu Wang",
+      "Yinghong Fang",
+      "Cewu Lu"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0096.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_conditionalkroneckerbatchnormalizationforcompositionalreasoning": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Conditional Kronecker Batch Normalization for Compositional Reasoning",
+    "authors": [
+      "\"Cheng Shi",
+      "Chun Yuan",
+      "Jiayin Cai",
+      "Zhuobin Zheng",
+      "YangYang Cheng",
+      "Zhihui Lin"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0100.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_3d-lmnetlatentembeddingmatchingforaccurateanddiverse3dpointcloudreconstructionfromasingleimage": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "3D-LMNet: Latent Embedding Matching for Accurate and Diverse 3D Point Cloud Reconstruction from a Single Image",
+    "authors": [
+      "Priyanka Mandikal",
+      "Navaneet  K L",
+      "Mayank Agarwal",
+      "Venkatesh Babu RADHAKRISHNAN"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0118.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_zero-shotobjectdetectionbyhybridregionembedding": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Zero-Shot Object Detection by Hybrid Region Embedding",
+    "authors": [
+      "Berkan Demirel",
+      "Ramazan Gokberk Cinbis",
+      "Nazli Ikizler-Cinbis"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0136.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_storyunderstandinginvideoadvertisements": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Story Understanding in Video Advertisements",
+    "authors": [
+      "Keren Ye",
+      "Kyle Buettner",
+      "Adriana Kovashka"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0140.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_notallwordsareequalvideo-specificinformationlossforvideocaptioning": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Not All Words Are Equal: Video-specific Information Loss for Video Captioning",
+    "authors": [
+      "Jiarong Dong",
+      "Ke Gao",
+      "Xiaokai Chen",
+      "junbo guo",
+      "Juan Cao",
+      "Yongdong Zhang"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0143.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_tiny-dsodlightweightobjectdetectionforresource-restrictedusages": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Tiny-DSOD: Lightweight Object Detection for Resource-Restricted Usages",
+    "authors": [
+      "Yuxi Li",
+      "Jiuwei Li",
+      "Weiyao Lin",
+      "Jianguo Li"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0145.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_incrementaltubeconstructionforhumanactiondetection": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Incremental Tube Construction for Human Action Detection",
+    "authors": [
+      "Harkirat Singh Behl",
+      "Michael  Sapienza",
+      "Gurkirt Singh",
+      "Suman Saha",
+      "Fabio Cuzzolin",
+      "Philip Torr"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0146.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_trainingstudentnetworksforaccelerationwithconditionaladversarialnetworks": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Training Student Networks for Acceleration with Conditional Adversarial Networks",
+    "authors": [
+      "Zheng Xu",
+      "Yen-Chang Hsu",
+      "Jiawei Huang"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0154.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_super-resolutionofverylowresolutionfacesfromvideos": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Super-resolution of Very Low Resolution Faces from Videos",
+    "authors": [
+      "\"Esra Ataer-Cansizogle",
+      "Michael Jones"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0157.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_semi-supervisedskinlesionsegmentationviatransformationconsistentself-ensemblingmodel": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Semi-supervised Skin Lesion Segmentation via Transformation Consistent Self-ensembling Model",
+    "authors": [
+      "Xiaomeng  Li",
+      "Lequan Yu",
+      "Hao Chen",
+      "Chi-Wing Fu",
+      "Pheng-Ann Heng"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0162.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_metriclearningfornoveltyandanomalydetection": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Metric Learning for Novelty and Anomaly Detection",
+    "authors": [
+      "Marc Masana",
+      "Idoia Ruiz",
+      "Joan Serrat",
+      "Joost van de Weijer",
+      "Antonio M. Lopez"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0178.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_adversariallearningforsemi-supervisedsemanticsegmentation": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Adversarial Learning for Semi-supervised Semantic Segmentation",
+    "authors": [
+      "Wei-Chih Hung",
+      "Yi-Hsuan Tsai",
+      "Yan-Ting Liou",
+      "Yen-Yu Lin",
+      "Ming-Hsuan Yang"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0200.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_dynamicsuper-raysforefficientlightfieldvideoprocessing": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Dynamic Super-Rays for Efficient Light Field Video Processing",
+    "authors": [
+      "Matthieu Hog",
+      "Neus Sabater",
+      "Christine Guillemot"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0202.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_holisticanddeepfeaturepyramidsforsaliencydetection": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Holistic and Deep Feature Pyramids for Saliency Detection",
+    "authors": [
+      "Shizhong Dong",
+      "Zhifan Gao",
+      "Shanhui Sun",
+      "xin wang",
+      "ming li",
+      "heye zhang",
+      "Guang Yang",
+      "Huafeng  Liu",
+      "Shuo Li"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0212.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_sparseestimationoflighttransportmatrixundersaturatedcondition": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Sparse Estimation of Light Transport Matrix under Saturated Condition",
+    "authors": [
+      "Naoya Chiba",
+      "Koichi Hashimoto"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0215.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_syntheticviewgenerationforabsoluteposeregressionandimagesynthesis": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Synthetic View Generation for Absolute Pose Regression and Image Synthesis",
+    "authors": [
+      "Pulak Purkait",
+      "Cheng  Zhao",
+      "Christopher Zach"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0221.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_self-superviseddeepmultiplechoicelearningnetworkforblindimagequalityassessment": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Self-supervised Deep Multiple Choice Learning Network for Blind Image Quality Assessment",
+    "authors": [
+      "Kwan-Yee Lin",
+      "Guanxiang Wang"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0235.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_classifiertwosampletestforvideoanomalydetections": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Classifier Two Sample Test for Video Anomaly Detections",
+    "authors": [
+      "Yusha Liu",
+      "Chun-Liang Li",
+      "Barnabas Poczos"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0237.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_amixedclassification-regressionframeworkfor3dposeestimationfrom2dimages": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "A Mixed Classification-Regression Framework for 3D Pose Estimation from 2D Images",
+    "authors": [
+      "Siddharth Mahendran",
+      "Haider Ali",
+      "Rene Vidal"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0238.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_semantic-awaregrad-ganforvirtual-to-realurbansceneadaption": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Semantic-aware Grad-GAN for Virtual-to-Real Urban Scene Adaption",
+    "authors": [
+      "Peilun Li",
+      "XIAODAN LIANG",
+      "Daoyuan Jia",
+      "Eric Xing"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0239.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_classification-basedsupervisedhashingwithcomplementarynetworksforimagesearch": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Classification-Based Supervised Hashing with Complementary Networks for Image Search",
+    "authors": [
+      "Dong-ju Jeong",
+      "Sungkwon Choo",
+      "Wonkyo Seo",
+      "Nam Ik Cho"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0245.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_semanticlocalisationviagloballyuniqueinstancesegmentation": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Semantic Localisation via Globally Unique Instance Segmentation",
+    "authors": [
+      "Ignas Budvytis",
+      "Patrick Sauer",
+      "Roberto Cipolla"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0246.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_mc-ganmulti-conditionalgenerativeadversarialnetworkforimagesynthesis": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "MC-GAN: Multi-conditional Generative Adversarial Network for Image Synthesis",
+    "authors": [
+      "Hyojin Park",
+      "Youngjoon Yoo",
+      "Nojun Kwak"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0247.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_interiornetmega-scalemulti-sensorphoto-realisticindoorscenesdataset": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "InteriorNet: Mega-scale Multi-sensor Photo-realistic Indoor Scenes Dataset",
+    "authors": [
+      "Wenbin Li",
+      "Sajad Saeedi",
+      "John McCormac",
+      "Ronald Clark",
+      "Dimos Tzoumanikas",
+      "Qing Ye",
+      "Yuzhong Huang",
+      "Rui Tang",
+      "Stefan Leutenegger"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0249.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_indefenseofsingle-columnnetworksforcrowdcounting": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "In Defense of Single-column Networks for Crowd Counting",
+    "authors": [
+      "Ze Wang",
+      "Zehao Xiao",
+      "Kai Xie",
+      "Qiang Qiu",
+      "Xiantong Zhen",
+      "Xianbin Cao"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0252.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_few-shotsemanticsegmentationwithprototypelearning": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Few-Shot Semantic Segmentation with Prototype Learning",
+    "authors": [
+      "Nanqing Dong",
+      "Eric Xing"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0255.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_symmnetasymmetricconvolutionalneuralnetworkforocclusiondetection": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "SymmNet: A Symmetric Convolutional Neural Network for Occlusion Detection",
+    "authors": [
+      "Ang Li",
+      "Zejian Yuan"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0258.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_jointholisticandpartialcnnforpedestriandetection": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Joint Holistic and Partial CNN for Pedestrian Detection",
+    "authors": [
+      "Yun Zhao",
+      "Zejian Yuan",
+      "Hui Zhang"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0261.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_thinkandtellpreviewnetworkforimagecaptioning": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Think and Tell: Preview Network for Image Captioning",
+    "authors": [
+      "Zhihao Zhu",
+      "zhan xue",
+      "Zejian Yuan"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0262.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_adaptivemulti-scaleinformationflowforobjectdetection": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Adaptive Multi-Scale Information Flow for Object Detection",
+    "authors": [
+      "Xiaoyu Chen",
+      "Wei Li",
+      "Qingbo Wu",
+      "Fanman Meng"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0266.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_visualheartrateestimationwithconvolutionalneuralnetwork": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Visual Heart Rate Estimation with Convolutional Neural Network",
+    "authors": [
+      "Radim Spetlik",
+      "Vojtech Franc",
+      "Jan Cech",
+      "Jiri Matas"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0271.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_visually-drivensemanticaugmentationforzero-shotlearning": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Visually-Driven Semantic Augmentation for Zero-Shot Learning",
+    "authors": [
+      "Abhinaba Roy",
+      "Jacopo Cavazza",
+      "Vittorio Murino"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0276.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_proflowlearningtopredictopticalflow": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "ProFlow: Learning to Predict Optical Flow",
+    "authors": [
+      "Daniel Maurer",
+      "Andr\u00e9s Bruhn"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0277.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_deepcollaborativetrackingnetworks": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Deep Collaborative Tracking Networks",
+    "authors": [
+      "Xiaolong Jiang",
+      "Xiantong Zhen",
+      "Baochang Zhang",
+      "Jian Yang",
+      "Xianbin Cao"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0279.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_adaptivetime-sliceblock-matchingopticalflowalgorithmfordynamicvisionsensors": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Adaptive Time-Slice Block-Matching Optical Flow Algorithm for Dynamic Vision Sensors",
+    "authors": [
+      "Min Liu",
+      "Tobi Delbruck"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0280.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_crowdcountingbyadaptivelyfusingpredictionsfromanimagepyramid": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Crowd Counting by Adaptively Fusing Predictions from an Image Pyramid",
+    "authors": [
+      "Di Kang",
+      "Antoni Chan"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0283.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_multi-taskdeepnetworksfordepth-based6dobjectposeandjointregistrationincrowdscenarios": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Multi-Task Deep Networks for Depth-Based 6D Object Pose and Joint Registration in Crowd Scenarios",
+    "authors": [
+      "Juil Sock",
+      "Kwang In Kim",
+      "Caner Sahin",
+      "Tae-Kyun Kim"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0284.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_deepactivelearningforobjectdetection": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Deep active learning for object detection",
+    "authors": [
+      "Soumya Roy",
+      "Asim Unmesh",
+      "Vinay P Namboodiri"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0287.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_orinetafullyconvolutionalnetworkfor3dhumanposeestimation": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "OriNet: A Fully Convolutional Network for 3D Human Pose Estimation",
+    "authors": [
+      "Chenxu Luo",
+      "Xiao Chu",
+      "Alan Yuille"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0289.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_towardslight-weightannotationsfuzzyinterpolativereasoningforzero-shotimageclassificaiton": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Towards Light-weight Annotations: Fuzzy Interpolative Reasoning for Zero-shot Image Classificaiton",
+    "authors": [
+      "Yang Long",
+      "Yao Tan",
+      "Daniel Organisciak",
+      "Longzhi Yang",
+      "Ling Shao"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0303.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_recurrentmulti-framesingleshotdetectorforvideoobjectdetection": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Recurrent Multi-frame Single Shot Detector for Video Object Detection",
+    "authors": [
+      "\"Alex Broad",
+      "Michael Jones",
+      "Teng-Yok Lee"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0309.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_persuasivefacesgeneratingfacesinadvertisements": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Persuasive Faces: Generating Faces in Advertisements",
+    "authors": [
+      "Christopher L Thomas",
+      "Adriana Kovashka"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0310.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_themultiscalebowler-hattransformforvesselenhancementin3dbiomedicalimages": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "The Multiscale Bowler-Hat Transform for Vessel Enhancement in 3D Biomedical Images",
+    "authors": [
+      "Cigdem Sazak",
+      "Carl J.  Nelson",
+      "Boguslaw Obara"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0314.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_spg-netsegmentationpredictionandguidancenetworkforimageinpainting": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "SPG-Net: Segmentation Prediction and Guidance Network for Image Inpainting",
+    "authors": [
+      "Yuhang Song",
+      "Chao Yang",
+      "Yeji Shen",
+      "Peng Wang",
+      "Qin Huang",
+      "C.-C. Jay Kuo"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0317.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_exemplar-supportedgenerativereproductionforclassincrementallearning": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Exemplar-Supported Generative Reproduction for Class Incremental Learning",
+    "authors": [
+      "Chen He",
+      "Ruiping Wang",
+      "Shiguang Shan",
+      "Xilin Chen"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0325.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_gan-basedsemi-supervisedlearningonfewerlabeledsamples": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "GAN-based Semi-supervised Learning On Fewer Labeled Samples",
+    "authors": [
+      "Takumi Kobayashi"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0327.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_generativeadversarialguidedlearningfordomainadaptation": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Generative Adversarial Guided Learning for Domain Adaptation",
+    "authors": [
+      "Kai-Ya Wei",
+      "Chiou-Ting Hsu"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0329.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_igcv3interleavedlow-rankgroupconvolutionsforefficientdeepneuralnetworks": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "IGCV3: Interleaved Low-Rank Group Convolutions  for Efficient Deep Neural Networks",
+    "authors": [
+      "Ke Sun",
+      "Mingjie Li",
+      "Dong Liu",
+      "Jingdong Wang"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0330.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_self-supervisedfeaturelearningforsemanticsegmentationofoverheadimagery": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Self-Supervised Feature Learning for Semantic Segmentation of Overhead Imagery",
+    "authors": [
+      "Suriya Singh",
+      "Anil Batra",
+      "Guan Pang",
+      "Lorenzo Torresani",
+      "Saikat Basu",
+      "Manohar Paluri",
+      "C.V. Jawahar"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0345.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_activelearningforregressiontaskswithexpectedmodeloutputchanges": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Active Learning for Regression Tasks with Expected Model Output Changes",
+    "authors": [
+      "Christoph K\u00e4ding",
+      "Erik Rodner",
+      "Alexander Freytag",
+      "Oliver Mothes",
+      "Bj\u00f6rn Barz",
+      "Joachim Denzler"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0362.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_aquantitativeplatformfornon-line-of-sightimagingproblems": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "A Quantitative Platform for Non-Line-of-Sight Imaging Problems",
+    "authors": [
+      "Jonathan Klein",
+      "Martin Laurenzis",
+      "Dominik Michels",
+      "Matthias B Hullin"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0363.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_few-shotlearningofneuralnetworksfromscratchbypseudoexampleoptimization": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Few-shot learning of neural networks from scratch by pseudo example optimization",
+    "authors": [
+      "Akisato Kimura",
+      "Zoubin Ghahramani",
+      "Koh Takeuchi",
+      "Tomoharu Iwata",
+      "Naonori Ueda"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0366.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_directionalpriorsformulti-frameopticalflow": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Directional Priors for Multi-Frame Optical Flow",
+    "authors": [
+      "Daniel Maurer",
+      "Michael Stoll",
+      "Andr\u00e9s Bruhn"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0377.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_widerangedepthestimationfrombinocularlightfieldcamera": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Wide Range Depth Estimation from Binocular Light Field Camera",
+    "authors": [
+      "feng dai",
+      "Xianyu Chen",
+      "Yike Ma",
+      "Guoqing Jin",
+      "Qiang Zhao"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0378.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_calorinetfromsilhouettestocalorieestimationinprivateenvironments": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "CaloriNet: From silhouettes to calorie estimation in private environments",
+    "authors": [
+      "Alessandro Masullo",
+      "Tilo Burghardt",
+      "Dima Damen",
+      "Sion Hannuna",
+      "V\u00edctor Ponce-L\u00f3pez",
+      "Majid Mirmehdi"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0383.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_identitypreservingfacecompletionforlargeocularregionocclusion": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Identity Preserving Face Completion for Large Ocular Region Occlusion",
+    "authors": [
+      "Yajie Zhao",
+      "Weikai Chen",
+      "Jun Xing",
+      "Xiaoming Li",
+      "Zach Bessinger",
+      "Fuchang Liu",
+      "Wangmeng Zuo",
+      "Ruigang Yang"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0387.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_estherextremelysimpleimagetranslationthroughself-regularization": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "ESTHER: Extremely Simple Image Translation Through Self-Regularization",
+    "authors": [
+      "Chao Yang",
+      "Taehwan Kim",
+      "Ruizhe Wang",
+      "Hao Peng",
+      "C.-C. Jay Kuo"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0390.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_multicolumnnetworksforfacerecognition": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Multicolumn Networks for Face Recognition",
+    "authors": [
+      "Weidi Xie",
+      "Andrew Zisserman"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0391.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_progressiveattentionnetworksforvisualattributeprediction": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Progressive Attention Networks for Visual Attribute Prediction",
+    "authors": [
+      "Paul Hongsuck Seo",
+      "Zhe Lin",
+      "Scott Cohen",
+      "Xiaohui Shen",
+      "Bohyung Han"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0402.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_cross-classsamplesynthesisforzero-shotlearning": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Cross-Class Sample Synthesis for Zero-shot Learning",
+    "authors": [
+      "Jinlu Liu",
+      "Xirong Li",
+      "Gang Yang"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0403.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_shadowdetectionusingrobusttexturelearning": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Shadow Detection Using Robust Texture Learning",
+    "authors": [
+      "Tianxiang Pan",
+      "Bin Wang",
+      "guiguang ding",
+      "JunHai Yong"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0404.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_deepinsightmulti-taskmulti-scaledeeplearningformentaldisorderdiagnosis": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "DeepInsight: Multi-Task Multi-Scale Deep Learning for Mental Disorder Diagnosis",
+    "authors": [
+      "Mingyu Ding",
+      "Yuqi Huo",
+      "Jun Hu",
+      "Zhiwu Lu"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0406.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_surrealenhancingsurgicalsimulationrealismusingstyletransfer": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "SurReal: enhancing Surgical simulation Realism using style transfer",
+    "authors": [
+      "Imanol Luengo",
+      "Evangello Flouty",
+      "Petros Giataganas",
+      "Piyamate Wisanuvej",
+      "Jean Nehme",
+      "Danail Stoyanov"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0419.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_guidedupsamplingnetworkforreal-timesemanticsegmentation": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Guided Upsampling Network for Real-Time Semantic Segmentation",
+    "authors": [
+      "Davide Mazzini"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0423.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_pointattentionnetworkforgesturerecognitionusingpointclouddata": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Point Attention Network for Gesture Recognition Using Point Cloud Data",
+    "authors": [
+      "Cherdsak Kingkan",
+      "Joshua Owoyemi",
+      "Koichi Hashimoto"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0427.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_adecomposeddual-crossgenerativeadversarialnetworkforimagerainremoval": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "A Decomposed Dual-Cross Generative Adversarial Network for Image Rain Removal",
+    "authors": [
+      "Xin Jin",
+      "Zhibo Chen",
+      "Jianxin Lin",
+      "Jiale Chen",
+      "Wei Zhou",
+      "Chaowei Shan"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0428.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_light-fieldintrinsicdataset": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Light-Field Intrinsic Dataset",
+    "authors": [
+      "Sumit Shekhar",
+      "Shida  Beigpour",
+      "Matthias Ziegler",
+      "Micha\u0142 Chwesiuk",
+      "Dawid Pale\u0144",
+      "Karol  Myszkowski",
+      "Joachim Keinert",
+      "Rados\u0142aw Mantiuk",
+      "Piotr Didyk"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0431.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_cereals\u2013cost-effectiveregion-basedactivelearningforsemanticsegmentation": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "CEREALS \u2013 Cost-Effective REgion-based Active Learning for Semantic Segmentation",
+    "authors": [
+      "Radek J Mackowiak",
+      "Philip Lenz",
+      "Omair Ghori",
+      "Ferran Diego",
+      "Oliver Lange",
+      "Carsten Rother"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0437.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_largescaleevaluationoflocalimagefeaturedetectorsonhomographydatasets": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Large scale evaluation of local image feature detectors on homography datasets",
+    "authors": [
+      "Karel Lenc",
+      "Andrea Vedaldi"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0462.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_errorcorrectionmaximizationfordeepimagehashing": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Error Correction Maximization for Deep Image Hashing",
+    "authors": [
+      "Xiang Xu",
+      "Xiaofang Wang",
+      "Kris Kitani"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0475.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_learningacode-spacepredictorbyexploitingintra-image-dependencies": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Learning a Code-Space Predictor by Exploiting Intra-Image-Dependencies",
+    "authors": [
+      "Jan P Klopp",
+      "Yu-Chiang Frank Wang",
+      "Shao-Yi Chien",
+      "Liang-Gee Chen"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0491.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_light-weightrefinenetforreal-timesemanticsegmentation": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Light-Weight RefineNet for Real-Time Semantic Segmentation",
+    "authors": [
+      "Vladimir Nekrasov",
+      "Chunhua Shen",
+      "Ian Reid"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0494.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_accuratedetectionandlocalizationofcheckerboardcornersforcalibration": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Accurate Detection and Localization of Checkerboard Corners for Calibration",
+    "authors": [
+      "Alexander Duda",
+      "Udo Frese"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0508.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_3dobjectstructurerecoveryviasemi-supervisedlearningonvideos": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "3D Object Structure Recovery via Semi-supervised Learning on Videos",
+    "authors": [
+      "Qian He",
+      "Desen Zhou",
+      "Xuming He"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0516.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_deepvideocolorpropagation": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Deep Video Color Propagation",
+    "authors": [
+      "Simone Meyer",
+      "Victor Cornillere",
+      "Abdelaziz Djelouah",
+      "Christopher Schroers",
+      "Markus Gross"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0521.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_3dhumanposeestimationwithrelationalnetworks": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "3D Human Pose Estimation with Relational Networks",
+    "authors": [
+      "Sungheon Park",
+      "Nojun Kwak"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0530.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_image-derivedgenerativemodelingofpseudo-macromolecularstructures--towardsthestatisticalassessmentofelectroncryotomographytemplatematching": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Image-derived generative modeling of pseudo-macromolecular structures -- towards the statistical assessment of Electron CryoTomography template matching",
+    "authors": [
+      "Kaiwen Wang",
+      "Xiangrui Zeng",
+      "Xiaodan Liang",
+      "Zhiguang Huo",
+      "Eric Xing",
+      "Min Xu"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0532.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_rankingcganssubjectivecontroloversemanticimageattributes": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Ranking CGANs: Subjective Control over Semantic Image Attributes",
+    "authors": [
+      "Yassir Saquil",
+      "Kwang In Kim",
+      "Peter M Hall"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0534.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_licenseplaterecognitionandsuper-resolutionfromlow-resolutionvideosbyconvolutionalneuralnetworks": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "License Plate Recognition and Super-resolution from Low-Resolution Videos by Convolutional Neural Networks",
+    "authors": [
+      "Vojtech Vasek",
+      "Vojtech Franc",
+      "Martin Urban"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0537.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_end-to-endspeech-drivenfacialanimationwithtemporalgans": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "End-to-End Speech-Driven Facial Animation with Temporal GANs",
+    "authors": [
+      "Konstantinos Vougioukas",
+      "Stavros Petridis",
+      "Maja Pantic"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0539.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_2sranking-cnna2-stageranking-cnnfordiagnosisofglaucomafromfundusimagesusingcam-extractedroiasanintermediateinput": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "2sRanking-CNN: A 2-stage ranking-CNN for diagnosis of glaucoma from fundus images using CAM-extracted ROI as an intermediate input",
+    "authors": [
+      "Tae Joon Jun",
+      "Dohyeun Kim",
+      "Hoang Minh Nguyen",
+      "Daeyoung Kim",
+      "Youngsub Eom"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0544.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_destnetdenselyfusedspatialtransformernetworks": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "DeSTNet: Densely Fused Spatial Transformer Networks",
+    "authors": [
+      "Roberto Annunziata",
+      "Christos Sagonas",
+      "Jacques Cali"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0552.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_fewerismoreimagesegmentationbasedweaklysupervisedobjectdetectionwithpartialaggregation": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Fewer is More: Image Segmentation Based Weakly Supervised Object Detection with Partial Aggregation",
+    "authors": [
+      "Ce Ge",
+      "Jingyu Wang",
+      "Qi Qi",
+      "Haifeng Sun",
+      "Jianxin Liao"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0557.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_futuresemanticsegmentationwithconvolutionallstm": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Future Semantic Segmentation with Convolutional LSTM",
+    "authors": [
+      "Seyed shahabeddin Nabavi",
+      "Mrigank Rochan",
+      "Yang Wang"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0559.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_actioncompletionatemporalmodelformomentdetection": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Action Completion: A Temporal Model for Moment Detection",
+    "authors": [
+      "Farnoosh Heidarivincheh",
+      "Majid Mirmehdi",
+      "Dima Damen"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0561.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_multipleobjecttrackingbylearningfeaturerepresentationanddistancemetricjointly": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Multiple Object Tracking by Learning Feature Representation and Distance Metric Jointly",
+    "authors": [
+      "Jun Xiang",
+      "Guoshuai Zhang",
+      "Nong Sang",
+      "Rui Huang",
+      "Jianhua Hou"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0569.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_highwaydrivingdatasetforsemanticvideosegmentation": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Highway Driving Dataset for Semantic Video Segmentation",
+    "authors": [
+      "Byungju Kim",
+      "Junho Yim",
+      "Junmo Kim"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0570.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_theminimalistcamera": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "The Minimalist Camera",
+    "authors": [
+      "\"Parita Pooj",
+      "Michael Grossberg",
+      "Peter Belhumeur",
+      "Shree Nayar"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0571.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_localizationguidedlearningforpedestrianattributerecognition": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Localization Guided Learning for Pedestrian Attribute Recognition",
+    "authors": [
+      "Pengze Liu",
+      "Xihui Liu",
+      "Junjie Yan",
+      "Jing Shao"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0573.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_localpointpairfeaturehistogramforaccurate3dmatching": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Local Point Pair Feature Histogram for Accurate 3D Matching",
+    "authors": [
+      "Anders G Buch",
+      "Dirk Kraft"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0576.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_learninggeo-temporalimagefeatures": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Learning Geo-Temporal Image Features",
+    "authors": [
+      "Menghua Zhai",
+      "Tawfiq Salem",
+      "Connor S Greenwell",
+      "Scott Workman",
+      "Robert Pless",
+      "Nathan Jacobs"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0586.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_contextnetexploringcontextanddetailforsemanticsegmentationinreal-time": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "ContextNet: Exploring Context and Detail for Semantic Segmentation in Real-time",
+    "authors": [
+      "Rudra Poudel",
+      "Ujwal Bonde",
+      "Stephan Liwicki",
+      "Christopher Zach"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0286.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_directshotcorrespondencematching": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Direct Shot Correspondence Matching",
+    "authors": [
+      "\"Umer Rafi",
+      "Jurgen Gall",
+      "Bastian Leibe",
+      "\""
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0371.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_gatedfusionnetworkforjointimagedeblurringandsuper-resolution": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Gated Fusion Network for Joint Image Deblurring and Super-Resolution",
+    "authors": [
+      "Xinyi Zhang",
+      "Hang Dong",
+      "Zhe Hu",
+      "Wei-Sheng Lai",
+      "Fei Wang",
+      "Ming-Hsuan Yang"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0304.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_semanticpriorsforintrinsicimagedecomposition": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Semantic Priors for Intrinsic Image Decomposition",
+    "authors": [
+      "Saurabh Saini",
+      "P. J.  Narayanan"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0796.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_deepretinexdecompositionforlow-lightenhancement": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Deep Retinex Decomposition for Low-Light Enhancement",
+    "authors": [
+      "Chen Wei",
+      "Wenjing Wang",
+      "Wenhan Yang",
+      "Jiaying Liu"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0451.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_pixel-levelsemanticsguidedimagecolorization": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Pixel-level Semantics Guided Image Colorization",
+    "authors": [
+      "JIAOJIAO ZHAO",
+      "Li Liu",
+      "Cees Snoek",
+      "Jungong Han",
+      "Ling Shao"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0236.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_automaticsemanticcontentremovalbylearningtoneglect": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Automatic Semantic Content Removal by Learning to Neglect",
+    "authors": [
+      "Siyang Qin",
+      "Jiahui Wei",
+      "Roberto Manduchi"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0876.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_cnn-basedactionrecognitionandsuperviseddomainadaptationon3dbodyskeletonsviakernelfeaturemaps": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "CNN-based Action Recognition and Supervised Domain Adaptation on 3D Body Skeletons via Kernel Feature Maps",
+    "authors": [
+      "Yusuf Tas",
+      "Piotr Koniusz"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0753.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_deepcovariancedescriptorsforfacialexpressionrecognition": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Deep Covariance Descriptors for Facial Expression Recognition",
+    "authors": [
+      "Naima OTBERDOUT",
+      "Anis Kacem",
+      "Mohamed Daoudi",
+      "Lahoucine Ballihi",
+      "Stefano Berretti"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0804.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_videotimeproperties,encodersandevaluation": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Video Time: Properties, Encoders and Evaluation",
+    "authors": [
+      "Amir Ghodrati",
+      "Efstratios Gavves",
+      "Cees Snoek"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0859.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_modellingdiffusionprocessbydeepneuralnetworksforimageretrieval": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Modelling Diffusion Process by Deep Neural Networks for Image Retrieval",
+    "authors": [
+      "yan zhao",
+      "Lei Wang",
+      "Luping Zhou",
+      "Yinghuan Shi",
+      "Yang Gao"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0861.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_memory-efficientglobalrefinementofdecision-treeensemblesanditsapplicationtofacealignment": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Memory-efficient Global Refinement of Decision-Tree Ensembles and its Application to Face Alignment",
+    "authors": [
+      "Nenad Markus",
+      "Ivan Gogi\u0107",
+      "Igor Pandzic",
+      "Jorgen Ahlberg"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0896.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_anovelmethodforunsupervisedscanner-invarianceusingadual-channelauto-encodermodel": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "A Novel Method For Unsupervised Scanner-Invariance Using A Dual-Channel Auto-Encoder Model",
+    "authors": [
+      "Andrew D Moyes",
+      "Kun Zhang",
+      "Liping Wang",
+      "Ming Ji",
+      "Danny Crookes",
+      "Huiyu Zhou"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0936.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_improvedvisualrelocalizationbydiscoveringanchorpoints": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Improved Visual Relocalization by Discovering Anchor Points",
+    "authors": [
+      "Soham Saha",
+      "Girish Varma",
+      "C.V. Jawahar"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0962.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_bidirectionallongshort-termmemoryvariationalautoencoder": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Bidirectional Long Short-Term Memory Variational Autoencoder",
+    "authors": [
+      "Henglin Shi",
+      "Xin Liu",
+      "xiaopeng hong",
+      "Guoying Zhao"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0963.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_phaseretrievalforfourierptychographyundervaryingamountofmeasurements": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Phase retrieval for Fourier Ptychography  under varying amount of measurements",
+    "authors": [
+      "Lokesh Boominathan",
+      "Mayug Maniparambil",
+      "Honey Gupta",
+      "Rahul Baburajan",
+      "Kaushik Mitra"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/1013.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_s3dsingleshotmulti-spandetectorviafully3dconvolutionalnetworks": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "S3D: Single Shot multi-Span Detector via Fully 3D Convolutional Networks",
+    "authors": [
+      "Da Zhang",
+      "Xiyang Dai",
+      "Xin Wang",
+      "Yuan-Fang Wang"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0141.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_budget-awareactivitydetectionwitharecurrentpolicynetwork": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Budget-Aware Activity Detection with A Recurrent Policy Network",
+    "authors": [
+      "\"Behrooz Mahasseni",
+      "Xiaodong Yang",
+      "Pavlo Molchanov",
+      "Jan Kautz"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0242.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_fromcoarseattentiontofine-grainedgazeatwo-stage3dfullyconvolutionalnetworkforpredictingeyegazeinfirstpersonvideo": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "From Coarse Attention to Fine-Grained Gaze: A Two-stage 3D Fully Convolutional Network for Predicting Eye Gaze in First Person Video",
+    "authors": [
+      "Zehua Zhang",
+      "Sven Bambach",
+      "Chen Yu",
+      "David Crandall"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/1104.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_likenetasiamesemotionestimationnetworktrainedinanunsupervisedway": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "LikeNet: A Siamese Motion Estimation Network Trained in an Unsupervised Way",
+    "authors": [
+      "Aria Ahmadi",
+      "Marras Ioannis",
+      "Ioannis Patras"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0482.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_learninghumanopticalflow": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Learning Human Optical Flow",
+    "authors": [
+      "Anurag Ranjan",
+      "Javier Romero",
+      "Michael J. Black"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0121.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_videosummarisationbyclassificationwithdeepreinforcementlearning": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Video Summarisation by Classification with Deep Reinforcement Learning",
+    "authors": [
+      "Kaiyang Zhou",
+      "Tao Xiang",
+      "ANDREA CAVALLARO"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0147.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_quaternetaquaternion-basedrecurrentmodelforhumanmotion": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "QuaterNet: A Quaternion-based Recurrent Model for Human Motion",
+    "authors": [
+      "Dario Pavllo",
+      "David Grangier",
+      "Michael Auli"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0675.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_itsallrelativemonocular3dhumanposeestimationfromweaklysuperviseddata": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "It's all Relative: Monocular 3D Human Pose Estimation from Weakly Supervised Data",
+    "authors": [
+      "Matteo Ruggero Ronchi",
+      "Oisin Mac Aodha",
+      "Robert Eng",
+      "Pietro Perona"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0182.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_3dhandposeestimationusingsimulationandpartial-supervisionwithasharedlatentspace": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "3D Hand Pose Estimation using Simulation and Partial-Supervision with a Shared Latent Space",
+    "authors": [
+      "Masoud Abdi",
+      "Ehsan M Abbasnejad",
+      "Chee Peng  Lim",
+      "Saeid Nahavandi"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0899.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_self-supervisedlearningofafacialattributeembeddingfromvideo": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Self-supervised learning of a facial attribute embedding from video",
+    "authors": [
+      "Olivia Wiles",
+      "A S Koepke",
+      "Andrew Zisserman"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0288.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_faceverificationfromdepthusingprivilegedinformation": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Face Verification from Depth using Privileged Information",
+    "authors": [
+      "Guido Borghi",
+      "Stefano Pini",
+      "Filippo Grazioli",
+      "ROBERTO VEZZANI",
+      "Rita Cucchiara"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0410.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_signlanguageproductionusingneuralmachinetranslationandgenerativeadversarialnetworks": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Sign Language Production using Neural Machine Translation and Generative Adversarial Networks",
+    "authors": [
+      "Stephanie M Stoll",
+      "Necati Cihan Camgoz",
+      "Simon Hadfield",
+      "Richard Bowden"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0906.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_cu-netcoupledu-nets": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "CU-Net: Coupled U-Nets",
+    "authors": [
+      "Zhiqiang Tang",
+      "Xi Peng",
+      "Shijie Geng",
+      "Yizhe Zhu",
+      "Dimitris Metaxas"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0338.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_end-to-endimagecaptioningexploitsmultimodaldistributionalsimilarity": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "End-to-end Image Captioning Exploits Multimodal Distributional Similarity",
+    "authors": [
+      "Pranava Madhyastha",
+      "Josiah Wang",
+      "Lucia Specia"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0925.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_boostingupscenetextdetectorswithguidedcnn": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Boosting up Scene Text Detectors with Guided CNN",
+    "authors": [
+      "Xiaoyu Yue",
+      "Zhanghui Kuang",
+      "Zhaoyang Zhang",
+      "Zhenfang Chen",
+      "Pan He",
+      "Yu Qiao",
+      "Wei Zhang"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0633.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_y-netadeepconvolutionalneuralnetworktopolypdetection": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Y-Net: A deep Convolutional Neural Network to Polyp Detection",
+    "authors": [
+      "\"Ahmed Kedir Mohammed",
+      "Sule Yildirim-Yayilgan",
+      "Ivar Farup",
+      "Marius Pedersen",
+      "\u00d8istein Hovde"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0487.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_guitarmusictranscriptionfromsilentvideo": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Guitar Music Transcription from Silent Video",
+    "authors": [
+      "Shir Goldstein",
+      "Yael Moses"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0978.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_imageretrievalwithmixedinitiativeandmultimodalfeedback": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Image Retrieval with Mixed Initiative and Multimodal Feedback",
+    "authors": [
+      "Nils Murrugarra-Llerena",
+      "Adriana Kovashka"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0151.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_humanactivityrecognitionwithpose-drivenattentiontorgb": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Human Activity Recognition with Pose-driven Attention to RGB",
+    "authors": [
+      "Fabien Baradel",
+      "Christian Wolf",
+      "Julien Mille"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0589.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_generatingphotorealisticfacialexpressionsindyadicinteractions": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Generating Photorealistic Facial Expressions in Dyadic Interactions",
+    "authors": [
+      "Yuchi Huang",
+      "Saad Khan"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0590.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_anefficientend-to-endneuralmodelforhandwrittentextrecognition": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "An Efficient End-to-End Neural Model for Handwritten Text Recognition",
+    "authors": [
+      "Arindam Chowdhury",
+      "Lovekesh Vig"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0606.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_onlinemulti-objecttrackingwithstructuralinvarianceconstraint": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Online Multi-Object Tracking with Structural Invariance Constraint",
+    "authors": [
+      "Xiao Zhou",
+      "Peilin Jiang",
+      "Zhao Wei",
+      "Hang Dong",
+      "Fei Wang"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0607.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_self-attentionlearningforpersonre-identification": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Self-attention Learning for Person Re-identification",
+    "authors": [
+      "Minyue Jiang",
+      "Yuan Yuan",
+      "Qi Wang"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0613.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_improvingfastsegmentationwithteacher-studentlearning": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Improving Fast Segmentation With Teacher-Student Learning",
+    "authors": [
+      "Jiafeng Xie",
+      "Bing Shuai",
+      "Jian-Fang HU",
+      "Jingyang Lin",
+      "WEI-SHI ZHENG"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0624.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_asymmetricspatio-temporalembeddingsforlarge-scaleimage-to-videoretrieval": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Asymmetric Spatio-Temporal Embeddings for Large-Scale Image-to-Video Retrieval",
+    "authors": [
+      "Noa Garcia",
+      "George Vogiatzis"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0625.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_adaptivecontext-awarereinforcedagentforhandwrittentextrecognition": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Adaptive Context-aware Reinforced Agent for Handwritten Text Recognition",
+    "authors": [
+      "Liangke Gui",
+      "XIAODAN LIANG",
+      "Xiaojun Chang",
+      "Alexander  Hauptmann"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0628.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_attentionalalignmentnetworks": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Attentional Alignment Networks",
+    "authors": [
+      "Lei Yue",
+      "Xin Miao",
+      "Pengbo Wang",
+      "Baochang Zhang",
+      "Xiantong Zhen",
+      "Xianbin Cao"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0638.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_regionalattentionbaseddeepfeatureforimageretrieval": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Regional Attention Based Deep Feature for Image Retrieval",
+    "authors": [
+      "Jaeyoon Kim",
+      "Sungeui Yoon"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0642.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_learningandthinkingstrategyfortrainingsequencegenerationmodels": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Learning and Thinking Strategy for Training Sequence Generation Models",
+    "authors": [
+      "Yu Li",
+      "Sheng Tang",
+      "Min Lin",
+      "junbo guo",
+      "Jintao Li",
+      "Shuicheng Yan"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0644.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_adeepframeworkforautomaticannotationwithapplicationtoretailwarehouses": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "A Deep Framework for Automatic Annotation with Application to Retail Warehouses",
+    "authors": [
+      "Kanika Mahajan",
+      "ANIMA MAJUMDER",
+      "Harika Nanduri",
+      "Swagat Kumar"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0649.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_iterativelytrainedinteractivesegmentation": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Iteratively Trained Interactive Segmentation",
+    "authors": [
+      "Sabarinath Mahadevan",
+      "Paul Voigtlaender",
+      "Bastian Leibe"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0652.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_featurecontractionnewconvnetregularizationinimageclassification": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Feature Contraction: New ConvNet Regularization in Image Classification",
+    "authors": [
+      "Vladimir Li",
+      "Atsuto Maki"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0660.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_deepattentionalstructuredrepresentationlearningforvisualrecognition": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Deep Attentional Structured Representation Learning for Visual Recognition",
+    "authors": [
+      "Krishna Kanth Nakka",
+      "Mathieu Salzmann"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0668.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_ellipsedetectiononimagesusingconicpoweroftwopoints": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Ellipse Detection on Images Using Conic Power of Two Points",
+    "authors": [
+      "Min Liu",
+      "BODI Yuan",
+      "Jing Bai"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0670.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_parsingposeofpeoplewithinteraction": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Parsing Pose of People with Interaction",
+    "authors": [
+      "\"Serim Ryou",
+      "Pietro Perona"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0679.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_ahighlyaccuratefeaturefusionnetworkforvehicledetectioninsurveillancescenarios": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "A Highly Accurate Feature Fusion Network For Vehicle Detection In Surveillance Scenarios",
+    "authors": [
+      "\"Jianqiang Wang",
+      "Ya-Li Li",
+      "Shengjin Wang",
+      "\""
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0687.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_structurealigningdiscriminativelatentembeddingforzero-shotlearning": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Structure Aligning Discriminative Latent Embedding for Zero-Shot Learning",
+    "authors": [
+      "Omkar Anil Gune",
+      "Biplab Banerjee",
+      "Subhasis Chaudhuri"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0695.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_roi-wisereversereweightingnetworkforroadmarkingdetection": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "ROI-wise Reverse Reweighting Network for Road Marking Detection",
+    "authors": [
+      "Xiaoqiang Zhang",
+      "Yuan Yuan",
+      "Qi Wang"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0698.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_mbllenlow-lightimage/videoenhancementusingcnns": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "MBLLEN: Low-Light Image/Video Enhancement Using CNNs",
+    "authors": [
+      "Feifan Lv",
+      "Feng Lu",
+      "Jianhua Wu",
+      "Chongsoon Lim"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0700.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_hierachicalimagelinkselectionschemeforduplicatestructuredisambiguation": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Hierachical Image Link Selection Scheme for Duplicate Structure Disambiguation",
+    "authors": [
+      "Fan Wang",
+      "Aditi Nayak",
+      "Yogesh Agrawal",
+      "Roy Shilkrot"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0718.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_singleimagesuper-resolutionviasqueezeandexcitationnetwork": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Single Image Super-Resolution via Squeeze and Excitation Network",
+    "authors": [
+      "Tao Jiang",
+      "yu zhang",
+      "Xiaojun Wu",
+      "Yuan Rao",
+      "Mingquan Zhou"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0726.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_webcaricatureabenchmarkforcaricaturerecognition": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "WebCaricature: a benchmark for caricature recognition",
+    "authors": [
+      "Jing Huo",
+      "Wenbin Li",
+      "Yinghuan Shi",
+      "Yang Gao",
+      "Hujun Yin"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0728.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_resembledgenerativeadversarialnetworkstwodomainswithsimilarattributes": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Resembled Generative Adversarial Networks: Two Domains with Similar Attributes",
+    "authors": [
+      "Duhyeon  Bang",
+      "Hyunjung Shim"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0737.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_multispectralpedestriandetectionviasimultaneousdetectionandsegmentation": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Multispectral Pedestrian Detection via Simultaneous Detection and Segmentation",
+    "authors": [
+      "Chengyang Li",
+      "Dan Song",
+      "Ruofeng Tong",
+      "Min Tang"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0738.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_identity-basedadversarialtrainingofdeepcnnsforfacialactionunitrecognition": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Identity-based Adversarial Training of Deep CNNs for Facial Action Unit Recognition",
+    "authors": [
+      "Zheng Zhang",
+      "Shuangfei Zhai",
+      "Lijun Yin"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0741.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_afine-to-coarseconvolutionalneuralnetworkfor3dhumanactionrecognition": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "A Fine-to-Coarse Convolutional Neural Network for 3D Human Action Recognition",
+    "authors": [
+      "Thao M. Le",
+      "Nakamasa Inoue",
+      "Koichi Shinoda"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0745.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_densecorrespondenceofcone-beamcomputedtomographyimagesusingobliqueclusteringforest": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Dense Correspondence of Cone-Beam Computed Tomography Images Using Oblique Clustering Forest",
+    "authors": [
+      "Diya Sun",
+      "Yuru Pei",
+      "Yuke Guo",
+      "Gengyu Ma",
+      "Tianmin Xu",
+      "Hongbin Zha"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0755.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_attentionisallweneednailingdownobject-centricattentionforegocentricactivityrecognition": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Attention is All We Need: Nailing Down Object-centric Attention for Egocentric Activity Recognition",
+    "authors": [
+      "Swathikiran Sudhakaran",
+      "Oswald Lanz"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0756.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_structure-aware3dshapesynthesisfromsingle-viewimages": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Structure-Aware 3D Shape Synthesis from Single-View Images",
+    "authors": [
+      "Xuyang Hu",
+      "Fan Zhu",
+      "Li Liu",
+      "Jin Xie",
+      "Jun Tang",
+      "Nian Wang",
+      "Fumin Shen",
+      "Ling Shao"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0763.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_robustadversarialperturbationondeepproposal-basedmodels": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Robust Adversarial Perturbation on Deep Proposal-based Models",
+    "authors": [
+      "Yuezun Li",
+      "Daniel Tian",
+      "Ming-Ching Chang",
+      "Xiao Bian",
+      "Siwei Lyu"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0782.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_compactneuralnetworksbasedonthemultiscaleentanglementrenormalizationansatz": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Compact Neural Networks based on the Multiscale Entanglement Renormalization Ansatz",
+    "authors": [
+      "\"Andrew Hallam",
+      "Edward Grant",
+      "Vid Stojevic",
+      "Simone Severini",
+      "Andrew G. Green"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0784.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_jointactionunitlocalisationandintensityestimationthroughheatmapregression": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Joint Action Unit localisation and intensity estimation through heatmap regression",
+    "authors": [
+      "Enrique S\u00e1nchez-Lozano",
+      "Georgios Tzimiropoulos",
+      "Michel Valstar"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0788.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_multiplicativevs.additivehalf-quadraticminimizationforrobustcostoptimization": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Multiplicative vs. Additive Half-Quadratic Minimization for Robust Cost Optimization",
+    "authors": [
+      "Christopher Zach",
+      "Guillaume M Bourmaud"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0791.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_adifferentialapproachforgazeestimationwithcalibration": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "A Differential Approach for Gaze Estimation with Calibration",
+    "authors": [
+      "Gang Liu",
+      "Yu Yu",
+      "Kenneth Alberto Funes Mora",
+      "JEAN-MARC ODOBEZ"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0792.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_sam-rcnnscale-awaremulti-resolutionmulti-channelpedestriandetection": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "SAM-RCNN: Scale-Aware Multi-Resolution Multi-Channel Pedestrian Detection",
+    "authors": [
+      "Tianrui Liu",
+      "Mohamed  ElMikaty",
+      "Tania Stathaki"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0793.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_understandingdeeparchitecturesbyvisualsummaries": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Understanding Deep Architectures by Visual Summaries",
+    "authors": [
+      "Marco Godi",
+      "Marco Carletti",
+      "Maya Aghaei",
+      "Francesco Giuliari",
+      "Marco Cristani"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0794.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_ahybridprobabilisticmodelforcamerarelocalization": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "A Hybrid Probabilistic Model for Camera Relocalization",
+    "authors": [
+      "Ming Cai",
+      "Chunhua Shen",
+      "Ian Reid"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0799.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_actionrecognitionwiththeaugmentedmocapdatausingneuraldatatranslation": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Action Recognition with the Augmented MoCap Data using Neural Data Translation",
+    "authors": [
+      "Shih-Yao Lin",
+      "Yen-Yu Lin"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0800.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_stitchad-ganforsynthesizingapparentdiffusioncoefficientimagesofclinicallysignificantprostatecancer": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "StitchAD-GAN for Synthesizing Apparent Diffusion Coefficient Images of Clinically Significant Prostate Cancer",
+    "authors": [
+      "Zhiwei Wang",
+      "Yi Lin",
+      "Chunyuan Liao",
+      "Kwang-Ting Cheng",
+      "Xin Yang"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0813.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_long-termobjecttrackingwithamovingeventcamera": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Long-term object tracking with a moving event camera",
+    "authors": [
+      "Bharath Ramesh",
+      "Shihao Zhang",
+      "Zhi Wei Lee",
+      "Zhi Gao",
+      "Garrick Orchard",
+      "Cheng Xiang"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0814.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_multi-scalerecurrenttrackingviapyramidrecurrentnetworkandopticalflow": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Multi-Scale Recurrent Tracking via Pyramid Recurrent Network and Optical Flow",
+    "authors": [
+      "Ding Ma",
+      "Wei Bu",
+      "XIANGQIAN WU"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0820.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_strongbaselineforsingleimagedehazingwithdeepfeaturesandinstancenormalization": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Strong Baseline for Single Image Dehazing with Deep Features and Instance Normalization",
+    "authors": [
+      "Zheng Xu",
+      "Xitong Yang",
+      "Xue Li",
+      "Xiaoshuai Sun"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0821.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_learningregularizationweightforcrfoptimization": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Learning Regularization Weight for CRF Optimization",
+    "authors": [
+      "Jiaxiao Wu",
+      "Olga Veksler"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0827.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_automaticx-rayscatteringimageannotationviadouble-viewfourier-besselconvolutionalnetworks": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Automatic X-ray Scattering Image Annotation via Double-View Fourier-Bessel Convolutional Networks",
+    "authors": [
+      "Ziqiao  Guan",
+      "Hong Qin",
+      "Kevin  Yager",
+      "Youngwoo Choo",
+      "Dantong Yu"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0828.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_semanticsmeetsaliencyexploringdomainaffinityandmodelsfordual-taskprediction": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Semantics Meet Saliency: Exploring Domain Affinity and Models for Dual-Task Prediction",
+    "authors": [
+      "Md Amirul Islam",
+      "Mahmoud Kalash",
+      "Neil D. B. Bruce"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0834.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_adaptiveappearancerendering": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Adaptive Appearance Rendering",
+    "authors": [
+      "Mengyao Zhai",
+      "Ruizhi Deng",
+      "Jiacheng Chen",
+      "Lei Chen",
+      "Zhiwei Deng",
+      "Greg Mori"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0837.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_networkdecouplingfromregulartodepthwiseseparableconvolutions": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Network Decoupling: From Regular to Depthwise Separable Convolutions",
+    "authors": [
+      "Jianbo Guo",
+      "Yuxi Li",
+      "Weiyao Lin",
+      "Yurong Chen",
+      "Jianguo Li"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0849.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_buaa-proatrackingdatasetwithpixel-levelannotation": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "BUAA-PRO: A Tracking Dataset with Pixel-Level Annotation",
+    "authors": [
+      "Annan Li",
+      "Zhiyuan Chen",
+      "Yunhong Wang"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0851.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_reciprocalattentionfusionforvisualquestionanswering": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Reciprocal Attention Fusion for Visual Question Answering",
+    "authors": [
+      "Moshiur  R Farazi",
+      "Salman Khan"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0858.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_recurrentcnnfor3dgazeestimationusingappearanceandshapecues": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Recurrent CNN for 3D Gaze Estimation  using Appearance and Shape Cues",
+    "authors": [
+      "Cristina Palmero",
+      "Javier Selva",
+      "Mohammad Ali Bagheri",
+      "Sergio Escalera"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0871.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_activelearningfromnoisytaggedimages": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Active Learning from Noisy Tagged Images",
+    "authors": [
+      "Ehsan M Abbasnejad",
+      "Anthony Dick",
+      "Qinfeng Shi",
+      "Anton Van Den Hengel"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0888.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_stdnetaconvnetforsmalltargetdetection": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "STDnet: A ConvNet for Small Target Detection",
+    "authors": [
+      "Brais Bosquet",
+      "Manuel Mucientes",
+      "Victor Brea"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0897.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_learninghumanposesfromactions": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Learning Human Poses from Actions",
+    "authors": [
+      "Aditya Arun",
+      "C.V. Jawahar",
+      "M. Pawan Kumar"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0898.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_3dmotionsegmentationofarticulatedrigidbodiesbasedonrgb-ddata": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "3D Motion Segmentation of Articulated Rigid Bodies based on RGB-D Data",
+    "authors": [
+      "\"Urbano Miguel Nunes",
+      "Yiannis Demiris"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0901.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_deepevolutionary3ddiffusionheatmapsforlarge-posefacealignment": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Deep Evolutionary 3D Diffusion Heat Maps for Large-pose Face Alignment",
+    "authors": [
+      "Bin Sun",
+      "Ming Shao",
+      "Siyu Xia",
+      "YUN FU"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0904.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_iterativedeeplearningforroadtopologyextraction": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Iterative Deep Learning for Road Topology Extraction",
+    "authors": [
+      "Carles Ventura",
+      "Jordi Pont-Tuset",
+      "Sergi Caelles",
+      "Kevis-Kokitsi Maninis",
+      "Luc Van Gool"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0905.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_multi-phasevolumesegmentationwithtetrahedralmesh": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Multi-phase Volume Segmentation with Tetrahedral Mesh",
+    "authors": [
+      "\"Tuan T. Nguyen",
+      "Vedrana A. Dahl",
+      "J. Andreas B\u00e6rentzen",
+      "Camilla H. Trinderup"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0910.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_alphagangenerativeadversarialnetworksfornaturalimagematting": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "AlphaGAN: Generative adversarial networks for natural image matting",
+    "authors": [
+      "Sebastian Lutz",
+      "Konstantinos Amplianitis",
+      "Aljosa Smolic"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0915.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_actor-actionsemanticsegmentationwithregionmasks": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Actor-Action Semantic Segmentation with Region Masks",
+    "authors": [
+      "Kang Dang",
+      "CHUNLUAN ZHOU",
+      "Zhigang Tu",
+      "Michael  Hoy",
+      "Justin Dauwels",
+      "Junsong Yuan"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0924.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_jointflowtemporalflowfieldsformultipersonposeestimation": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "JointFlow: Temporal Flow Fields for Multi Person Pose Estimation",
+    "authors": [
+      "Andreas Doering",
+      "Umar Iqbal",
+      "Jurgen Gall"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0950.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_learningshort-cutconnectionsforobjectcounting": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Learning Short-Cut Connections for Object Counting",
+    "authors": [
+      "Daniel O\u00f1oro",
+      "Roberto Javier Lopez-Sastre",
+      "Mathias Niepert"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0953.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_convolutionalsimplexprojectionnetworkforweaklysupervisedsemanticsegmentation": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Convolutional Simplex Projection Network for Weakly Supervised Semantic Segmentation",
+    "authors": [
+      "Rania Briq",
+      "Michael Moeller",
+      "J\u00fcrgen Gall"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0958.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_deepdomainadaptationinactionspace": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Deep Domain Adaptation in Action Space",
+    "authors": [
+      "Arshad Jamal",
+      "Vinay P Namboodiri",
+      "Dipti Deodhare",
+      "K. S. Venkatesh"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0960.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_anewbenchmarkandprogresstowardimprovedweaklysupervisedlearning": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "A New Benchmark and Progress Toward Improved Weakly Supervised Learning",
+    "authors": [
+      "\"Jason Ramapuram",
+      "Russ Webb"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0965.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_recurrenttransformernetworkforremotesensingscenecategorisation": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Recurrent Transformer Network for Remote Sensing Scene Categorisation",
+    "authors": [
+      "Zan Chen",
+      "Shidong Wang",
+      "Xingsong Hou",
+      "Ling Shao"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0987.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_deepsegmentationandregistrationinx-rayangiographyvideo": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Deep Segmentation and Registration in X-Ray Angiography Video",
+    "authors": [
+      "Athanasios Vlontzos",
+      "Krystian Mikolajczyk"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0994.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_instancesegmentationoffibersfromlowresolutionctscansvia3ddeepembeddinglearning": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Instance Segmentation of Fibers from Low Resolution CT Scans via 3D Deep Embedding Learning",
+    "authors": [
+      "Tomasz K Konopczynski",
+      "Thorben Kr\u00f6ger",
+      "Lei Zheng",
+      "J\u00fcrgen Hesser"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0995.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_humanmotionparsingbyhierarchicaldynamicclustering": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Human Motion Parsing by Hierarchical Dynamic Clustering",
+    "authors": [
+      "Yan Zhang",
+      "Siyu Tang",
+      "He Sun",
+      "Heiko Neumann"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/1000.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_part-basedgraphconvolutionalnetworkforactionrecognition": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Part-based Graph Convolutional Network for Action Recognition",
+    "authors": [
+      "Kalpit C Thakkar",
+      "P. J.  Narayanan"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/1003.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_multi-tasklearningformacromoleculeclassification,segmentationandcoarsestructuralrecoveryincryo-tomography": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Multi-task Learning for Macromolecule Classification, Segmentation and Coarse Structural Recovery in Cryo-Tomography",
+    "authors": [
+      "Chang Liu",
+      "Xiangrui Zeng",
+      "Kaiwen Wang",
+      "Qiang Guo",
+      "Min Xu"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/1007.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_beefcattleinstancesegmentationusingfullyconvolutionalneuralnetwork": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Beef Cattle Instance Segmentation Using Fully Convolutional Neural Network",
+    "authors": [
+      "\"Aram  Ter-Sarkisov",
+      "John Kelleher",
+      "Bernadette Earley",
+      "Michael Keane",
+      "Robert Ross"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/1018.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_region-objectrelevance-guidedvisualrelationshipdetection": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Region-Object Relevance-Guided Visual Relationship Detection",
+    "authors": [
+      "Yusuke Goutsu"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/1020.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_learningfiner-classnetworksforuniversalrepresentations": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Learning Finer-class Networks for Universal Representations",
+    "authors": [
+      "Julien Girard",
+      "Youssef Tamaazousti",
+      "Herve Le Borgne",
+      "C\u00e9line Hudelot"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/1021.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_miningformeaningfromvisiontolanguagethroughmultiplenetworksconsensus": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Mining for meaning: from vision to language through multiple networks consensus",
+    "authors": [
+      "Iulia Duta",
+      "Andrei  L Nicolicioiu",
+      "Simion-Vlad Bogolin",
+      "Marius Leordeanu"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/1031.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_self-pacedlearningwithadaptivedeepvisualembeddings": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Self-Paced Learning with Adaptive Deep Visual Embeddings",
+    "authors": [
+      "Vithursan Thangarasa",
+      "Graham Taylor"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/1033.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_robust6dobjectposeestimationwithstochasticcongruentsets": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Robust 6D Object Pose Estimation with Stochastic Congruent Sets",
+    "authors": [
+      "Chaitanya Mitash",
+      "Abdeslam Boularias",
+      "Kostas Bekris"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/1046.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_neuro-ioulearningasurrogatelossforsemanticsegmentation": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Neuro-IoU: Learning a Surrogate Loss for Semantic Segmentation",
+    "authors": [
+      "Nagendar G",
+      "Digvijay Singh",
+      "Vineeth N Balasubramanian",
+      "C.V. Jawahar"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/1055.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_position-squeezeandexcitationblockforfacialattributeanalysis": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Position-Squeeze and Excitation Block for Facial Attribute Analysis",
+    "authors": [
+      "Yan Zhang",
+      "Wanxia Shen",
+      "Li Sun",
+      "Qingli Li"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/1063.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_semanticiterativeclosestpointthroughexpectation-maximization": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Semantic Iterative Closest Point through Expectation-Maximization",
+    "authors": [
+      "Steven Parkison",
+      "Lu Gan",
+      "Maani Ghaffari Jadidi",
+      "Dr.Ryan M Eustice"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/1073.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_sf-netlearningsceneflowfromrgb-dimageswithcnns": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "SF-Net: Learning Scene Flow from RGB-D Images with CNNs",
+    "authors": [
+      "Yi-Ling Qiao",
+      "Lin Gao",
+      "Yukun Lai",
+      "Fang-Lue Zhang",
+      "Ming-Ze Yuan",
+      "Shi-Hong Xia"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/1095.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_functionallymodularandinterpretabletemporalfilteringforrobustsegmentation": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Functionally Modular and Interpretable Temporal Filtering for Robust Segmentation",
+    "authors": [
+      "J\u00f6rg Wagner",
+      "Volker Fischer",
+      "Michael Herman",
+      "Sven Prof. Behnke"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/1101.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_deepfacialattributedetectioninthewildfromgeneraltospecific": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Deep Facial Attribute Detection in the Wild: From General to Specific",
+    "authors": [
+      "Yuechuan Sun",
+      "Jun Yu"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/1106.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_accurateeyecenterlocalizationviahierarchicaladaptiveconvolution": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Accurate Eye Center Localization via Hierarchical Adaptive Convolution",
+    "authors": [
+      "Haibin Cai",
+      "Bangli Liu",
+      "Zhaojie Ju",
+      "Serge Thill",
+      "Tony Belpaeme",
+      "Bram Vanderborght",
+      "Honghai Liu"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/1112.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_pyramidattentionnetworkforsemanticsegmentation": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Pyramid Attention Network for Semantic Segmentation",
+    "authors": [
+      "Hanchao Li",
+      "pengfei xiong",
+      "Jie An",
+      "Lingxue Wang"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/1120.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_deeptextured3dreconstructionofhumanbodies": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Deep Textured 3D Reconstruction of Human Bodies",
+    "authors": [
+      "Abbhinav Venkat",
+      "Sai Sagar",
+      "Avinash Sharma"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/1121.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_fast-bowscalingbag-of-visual-wordsgeneration": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Fast-BoW: Scaling Bag-of-Visual-Words Generation",
+    "authors": [
+      "Dinesh Singh",
+      "Abhijeet Bhure",
+      "Sumit Mamtani",
+      "C . Krishna Mohan"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/1129.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_query-conditionedthree-playeradversarialnetworkforvideosummarization": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Query-Conditioned Three-Player Adversarial Network for Video Summarization",
+    "authors": [
+      "Yujia Zhang",
+      "Michael C. Kampffmeyer",
+      "Xiaodan Liang",
+      "Min Tan",
+      "Eric Xing"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/1131.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_structure-aware3dhourglassnetworkforhandposeestimationfromsingledepthimage": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Structure-Aware 3D Hourglass Network for Hand Pose Estimation from Single Depth Image",
+    "authors": [
+      "Fuyang Huang",
+      "Ailing Zeng",
+      "Minhao Liu",
+      "Jing Qin",
+      "Qiang Xu"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/1133.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_chinesehandwritingimitationwithhierarchicalgenerativeadversarialnetwork": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Chinese Handwriting Imitation with Hierarchical Generative Adversarial Network",
+    "authors": [
+      "Jie Chang",
+      "yujun gu",
+      "Ya Zhang",
+      "Yan-Feng Wang"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/1141.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_deeplearningintra-imageandinter-imagesfeaturesforco-saliencydetection": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Deep Learning intra-image and inter-images features for Co-saliency detection",
+    "authors": [
+      "min li",
+      "Shizhong Dong",
+      "kun zhang",
+      "Zhifan Gao",
+      "Xi Wu",
+      "heye zhang",
+      "Guang Yang",
+      "Shuo Li"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/1145.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_learninggenericdiffusionprocessesforimagerestoration": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Learning Generic Diffusion Processes for Image Restoration",
+    "authors": [
+      "Peng Qiao",
+      "yong dou",
+      "Yunjin Chen",
+      "Wensen Feng"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/1147.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_end-to-endimagecaptioningexploitsdistributionalsimilarityinmultimodalspace": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "End-to-end Image Captioning Exploits Distributional Similarity in Multimodal Space",
+    "authors": [
+      "Pranava Madhyastha",
+      "Josiah Wang",
+      "Lucia Specia"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_main_y-netadeepconvolutionalneuralnetworkforpolypdetection": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Main",
+    "is_workshop": false,
+    "conf_name": "BMVC2018",
+    "title": "Y-Net: A deep Convolutional Neural Network for Polyp Detection",
+    "authors": [
+      "Ahmed Kedir Mohammed",
+      "Sule Yildirim-Yayilgan",
+      "Marius Pedersen",
+      "Ivar Farup",
+      "\u00d8istein Hovde"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/papers/0487.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_workshop_graph-basedcorrelatedtopicmodelformotionpatternsanalysisincrowdedscenesfromtracklets": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Workshop",
+    "is_workshop": true,
+    "conf_name": "BMVC2018_workshop",
+    "title": "Graph-based Correlated Topic Model for Motion Patterns Analysis in Crowded Scenes from Tracklets",
+    "authors": [
+      "Manal AlGhamdi",
+      "Yoshihiko Gotoh"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/iahfar2018/0002.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_workshop_onlineactionrecognitionbasedonskeletonmotiondistribution": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Workshop",
+    "is_workshop": true,
+    "conf_name": "BMVC2018_workshop",
+    "title": "Online Action Recognition based on Skeleton Motion Distribution",
+    "authors": [
+      "Bangli Liu",
+      "Zhaojie Ju",
+      "Naoyuki Kubota",
+      "Honghai Liu"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/iahfar2018/0007.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_workshop_gitlossfordeepfacerecognition": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Workshop",
+    "is_workshop": true,
+    "conf_name": "BMVC2018_workshop",
+    "title": "Git Loss for Deep Face Recognition",
+    "authors": [
+      "Ignazio Gallo",
+      "Shah Nawaz",
+      "Alessandro Calefati",
+      "Muhammad Kamran Janjua"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/iahfar2018/0012.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_workshop_bi-streamregionensemblenetworkpromotingaccuracyinfingertiplocalizationfromstereoimages": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Workshop",
+    "is_workshop": true,
+    "conf_name": "BMVC2018_workshop",
+    "title": "Bi-stream Region Ensemble Network: Promoting Accuracy in Fingertip Localization from Stereo Images",
+    "authors": [
+      "Cairong Zhang",
+      "Guijin Wang",
+      "Xinghao Chen",
+      "huazhong yang"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/iahfar2018/0018.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_workshop_practicalactionrecognitionwithmanifoldregularizedsparserepresentations": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Workshop",
+    "is_workshop": true,
+    "conf_name": "BMVC2018_workshop",
+    "title": "Practical Action Recognition with Manifold Regularized Sparse Representations",
+    "authors": [
+      "Lining Zhang",
+      "Rinat  Khusainov",
+      "John chiverton"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/iahfar2018/0025.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_workshop_cakeacompactandaccuratek-dimensionalrepresentationofemotion": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Workshop",
+    "is_workshop": true,
+    "conf_name": "BMVC2018_workshop",
+    "title": "CAKE: a Compact and Accurate K-dimensional representation of Emotion",
+    "authors": [
+      "Corentin Kervadec",
+      "Valentin Vielzeuf",
+      "Stephane Pateux",
+      "Alexis Lechervy",
+      "Frederic  Jurie"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/iahfar2018/0037.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_workshop_featureselectionmechanismincnnsforfacialexpressionrecognition": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Workshop",
+    "is_workshop": true,
+    "conf_name": "BMVC2018_workshop",
+    "title": "Feature Selection Mechanism in CNNs for Facial Expression Recognition",
+    "authors": [
+      "Shuwen Zhao",
+      "Haibin Cai",
+      "Honghai Liu",
+      "Jianhua Zhang",
+      "Shengyong Chen"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/iahfar2018/0011.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_workshop_adeepvariationalautoencoderapproachforrobustfacialsymmetrization": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Workshop",
+    "is_workshop": true,
+    "conf_name": "BMVC2018_workshop",
+    "title": "A Deep Variational Autoencoder Approach for Robust Facial Symmetrization",
+    "authors": [
+      "Ting Wang",
+      "Shu Zhang",
+      "Junyu Dong",
+      "Yongquan Liang"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/iahfar2018/0014.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_workshop_palmprintrecognitionsystemwithdouble-assistant-pointoniosmobiledevices": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Workshop",
+    "is_workshop": true,
+    "conf_name": "BMVC2018_workshop",
+    "title": "Palmprint Recognition System with Double-assistant-point on iOS Mobile Devices",
+    "authors": [
+      "Lu Leng"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/iahfar2018/0022.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_workshop_personpartsegmentationbasedonweaksupervision": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Workshop",
+    "is_workshop": true,
+    "conf_name": "BMVC2018_workshop",
+    "title": "Person Part Segmentation based on Weak Supervision",
+    "authors": [
+      "Yalong Jiang",
+      "Zheru Chi"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/iahfar2018/0024.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_workshop_saliency-informedspatio-temporalvectoroflocallyaggregateddescriptorsandfishervectorsforvisualactionrecognition": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Workshop",
+    "is_workshop": true,
+    "conf_name": "BMVC2018_workshop",
+    "title": "Saliency-Informed Spatio-Temporal Vector of Locally Aggregated Descriptors and Fisher Vectors for Visual Action Recognition",
+    "authors": [
+      "Zheming Zuo",
+      "Daniel Organisciak",
+      "Hubert P. H. Shum",
+      "Longzhi Yang"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/iahfar2018/0028.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_workshop_anew4d-rgbmappingtechniqueforfield-basedhigh-throughputphenotyping": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Workshop",
+    "is_workshop": true,
+    "conf_name": "BMVC2018_workshop",
+    "title": "A New 4D-RGB Mapping Technique for Field-Based High-Throughput Phenotyping",
+    "authors": [
+      "Ali Shafiekhani",
+      "Felix B. Fritschi",
+      "Guilherme DeSouza"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/cvppp2018/0010.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_workshop_low-costvisionmachineforhigh-throughputautomatedmonitoringofheterotrophicseedlinggrowthonwetpapersupport": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Workshop",
+    "is_workshop": true,
+    "conf_name": "BMVC2018_workshop",
+    "title": "Low-cost vision machine for high-throughput automated monitoring of heterotrophic seedling growth on wet paper support",
+    "authors": [
+      "Pejman Rasti",
+      "Didier Demilly",
+      "Landry Benoit",
+      "Etienne Belin",
+      "Sylvie DUCOURNAU",
+      "Francois CHAPEAU-BLONDEAU",
+      "David ROUSSEAU"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/cvppp2018/0013.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_workshop_dataaugmentationusingconditionalgenerativeadversarialnetworksforleafcountinginarabidopsisplants": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Workshop",
+    "is_workshop": true,
+    "conf_name": "BMVC2018_workshop",
+    "title": "Data Augmentation using Conditional Generative Adversarial Networks for Leaf Counting in Arabidopsis Plants",
+    "authors": [
+      "Yezi Zhu",
+      "Marc Aoun",
+      "Marcel Krijn",
+      "Joaquin Vanschoren"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/cvppp2018/0014.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_workshop_rootgapcorrectionwithadeepinpaintingmodel": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Workshop",
+    "is_workshop": true,
+    "conf_name": "BMVC2018_workshop",
+    "title": "Root Gap Correction with a Deep Inpainting Model",
+    "authors": [
+      "Hao Chen",
+      "Mario Valerio Giuffrida",
+      "Sotirios Tsaftaris",
+      "Peter Doerner"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/cvppp2018/0020.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_workshop_towardslow-costimage-basedplantphenotypingusingreduced-parametercnn": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Workshop",
+    "is_workshop": true,
+    "conf_name": "BMVC2018_workshop",
+    "title": "Towards Low-Cost Image-based Plant Phenotyping using Reduced-Parameter CNN",
+    "authors": [
+      "John Atanbori",
+      "Feng Chen",
+      "Andrew P French",
+      "Tony Pridmore"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/cvppp2018/0023.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_workshop_deepleafsegmentationusingsyntheticdata": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Workshop",
+    "is_workshop": true,
+    "conf_name": "BMVC2018_workshop",
+    "title": "Deep Leaf Segmentation Using Synthetic Data",
+    "authors": [
+      "Daniel C Ward",
+      "Peyman Moghadam",
+      "Nicolas Hudson"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/cvppp2018/0026.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_workshop_leafcountingmultiplescaleregressionanddetectionusingdeepcnns": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Workshop",
+    "is_workshop": true,
+    "conf_name": "BMVC2018_workshop",
+    "title": "Leaf counting: Multiple scale regression and detection using deep CNNs",
+    "authors": [
+      "Yotam Itzhaky",
+      "guy farjon",
+      "Faina Khoroshevsky",
+      "Alon Shpigler",
+      "Aharon Bar-Hillel"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/cvppp2018/0031.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_workshop_instancesegmentationforassessmentofplantgrowthdynamicsinartificialsoillessconditions": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Workshop",
+    "is_workshop": true,
+    "conf_name": "BMVC2018_workshop",
+    "title": "Instance segmentation for assessment of plant growth dynamics in artificial soilless conditions",
+    "authors": [
+      "Dmitrii G Shadrin",
+      "Victor Kulikov",
+      "Maxim Fedorov"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/cvppp2018/0027.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_workshop_what\u2019sthatplant?wtplantisadeeplearningsystemtoidentifyplantsinnaturalimages": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Workshop",
+    "is_workshop": true,
+    "conf_name": "BMVC2018_workshop",
+    "title": "What\u2019s That Plant? WTPlant is a Deep Learning System to Identify Plants in Natural Images",
+    "authors": [
+      "Jonas Krause",
+      "Gavin Sugita",
+      "Kyungim Baek",
+      "Lipyeow Lim"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/cvppp2018/0028.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_workshop_soybeanleafcoverageestimationforfield-phenotyping": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Workshop",
+    "is_workshop": true,
+    "conf_name": "BMVC2018_workshop",
+    "title": "Soybean Leaf Coverage Estimation for Field-Phenotyping",
+    "authors": [
+      "Kevin Keller",
+      "Raghav Khanna",
+      "Norbert Kirchgessner",
+      "Roland Siegwrat",
+      "Achim Walter",
+      "Helge Aasen"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/cvppp2018/0031.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_workshop_aha-3dalabelleddatasetforseniorfitnessexerciserecognitionandsegmentationfrom3dskeletaldata": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Workshop",
+    "is_workshop": true,
+    "conf_name": "BMVC2018_workshop",
+    "title": "AHA-3D: A Labelled Dataset for Senior Fitness Exercise Recognition and Segmentation from 3D Skeletal Data",
+    "authors": [
+      "Jo\u00e3o Antunes",
+      "Alexandre Bernardino",
+      "Asim Smailagic",
+      "Daniel Siewiorek"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/vibe2018/VIBE001.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_workshop_unsupervisedspeakercueusagedetectioninpublicspeakingvideos": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Workshop",
+    "is_workshop": true,
+    "conf_name": "BMVC2018_workshop",
+    "title": "Unsupervised Speaker Cue Usage Detection in Public Speaking Videos",
+    "authors": [
+      "Anshul Gupta",
+      "Dinesh Babu Jayagopi"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/vibe2018/VIBE002.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_workshop_tactileloggingforunderstandingplausibletoolusebasedonhumandemonstration": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Workshop",
+    "is_workshop": true,
+    "conf_name": "BMVC2018_workshop",
+    "title": "Tactile Logging for Understanding Plausible Tool Use Based on Human Demonstration",
+    "authors": [
+      "Shuichi Akizuki",
+      "Yoshimitsu Aoki"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/vibe2018/VIBE003.pdf",
+    "published": "2018-09",
+    "summary": ""
+  },
+  "bmvc2018_workshop_onlinemultipleviewtrackingtargetsassociationacrosscameras": {
+    "conf_id": "BMVC2018",
+    "conf_sub_id": "Workshop",
+    "is_workshop": true,
+    "conf_name": "BMVC2018_workshop",
+    "title": "Online Multiple View Tracking: Targets Association Across Cameras",
+    "authors": [
+      "Quoc Cuong LE",
+      "Donatello Conte",
+      "Moncef Hidane"
+    ],
+    "page_url": "",
+    "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/vibe2018/VIBE004.pdf",
+    "published": "2018-09",
+    "summary": ""
+  }
+}
