@@ -12,7 +12,8 @@
     "page_url": "",
     "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/iahfar2018/0002.pdf",
     "published": "2018-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2018_workshop_onlineactionrecognitionbasedonskeletonmotiondistribution": {
     "conf_id": "BMVC2018",
@@ -29,7 +30,8 @@
     "page_url": "",
     "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/iahfar2018/0007.pdf",
     "published": "2018-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2018_workshop_gitlossfordeepfacerecognition": {
     "conf_id": "BMVC2018",
@@ -46,7 +48,8 @@
     "page_url": "",
     "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/iahfar2018/0012.pdf",
     "published": "2018-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2018_workshop_bi-streamregionensemblenetworkpromotingaccuracyinfingertiplocalizationfromstereoimages": {
     "conf_id": "BMVC2018",
@@ -63,7 +66,8 @@
     "page_url": "",
     "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/iahfar2018/0018.pdf",
     "published": "2018-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2018_workshop_practicalactionrecognitionwithmanifoldregularizedsparserepresentations": {
     "conf_id": "BMVC2018",
@@ -79,7 +83,8 @@
     "page_url": "",
     "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/iahfar2018/0025.pdf",
     "published": "2018-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2018_workshop_cakeacompactandaccuratek-dimensionalrepresentationofemotion": {
     "conf_id": "BMVC2018",
@@ -97,7 +102,8 @@
     "page_url": "",
     "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/iahfar2018/0037.pdf",
     "published": "2018-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2018_workshop_featureselectionmechanismincnnsforfacialexpressionrecognition": {
     "conf_id": "BMVC2018",
@@ -115,7 +121,8 @@
     "page_url": "",
     "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/iahfar2018/0011.pdf",
     "published": "2018-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2018_workshop_adeepvariationalautoencoderapproachforrobustfacialsymmetrization": {
     "conf_id": "BMVC2018",
@@ -132,7 +139,8 @@
     "page_url": "",
     "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/iahfar2018/0014.pdf",
     "published": "2018-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2018_workshop_palmprintrecognitionsystemwithdouble-assistant-pointoniosmobiledevices": {
     "conf_id": "BMVC2018",
@@ -146,7 +154,8 @@
     "page_url": "",
     "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/iahfar2018/0022.pdf",
     "published": "2018-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2018_workshop_personpartsegmentationbasedonweaksupervision": {
     "conf_id": "BMVC2018",
@@ -161,7 +170,8 @@
     "page_url": "",
     "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/iahfar2018/0024.pdf",
     "published": "2018-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2018_workshop_saliency-informedspatio-temporalvectoroflocallyaggregateddescriptorsandfishervectorsforvisualactionrecognition": {
     "conf_id": "BMVC2018",
@@ -178,7 +188,8 @@
     "page_url": "",
     "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/iahfar2018/0028.pdf",
     "published": "2018-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2018_workshop_anew4d-rgbmappingtechniqueforfield-basedhigh-throughputphenotyping": {
     "conf_id": "BMVC2018",
@@ -194,7 +205,8 @@
     "page_url": "",
     "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/cvppp2018/0010.pdf",
     "published": "2018-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2018_workshop_low-costvisionmachineforhigh-throughputautomatedmonitoringofheterotrophicseedlinggrowthonwetpapersupport": {
     "conf_id": "BMVC2018",
@@ -214,7 +226,8 @@
     "page_url": "",
     "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/cvppp2018/0013.pdf",
     "published": "2018-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2018_workshop_dataaugmentationusingconditionalgenerativeadversarialnetworksforleafcountinginarabidopsisplants": {
     "conf_id": "BMVC2018",
@@ -231,7 +244,8 @@
     "page_url": "",
     "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/cvppp2018/0014.pdf",
     "published": "2018-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2018_workshop_rootgapcorrectionwithadeepinpaintingmodel": {
     "conf_id": "BMVC2018",
@@ -248,7 +262,8 @@
     "page_url": "",
     "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/cvppp2018/0020.pdf",
     "published": "2018-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2018_workshop_towardslow-costimage-basedplantphenotypingusingreduced-parametercnn": {
     "conf_id": "BMVC2018",
@@ -265,7 +280,8 @@
     "page_url": "",
     "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/cvppp2018/0023.pdf",
     "published": "2018-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2018_workshop_deepleafsegmentationusingsyntheticdata": {
     "conf_id": "BMVC2018",
@@ -281,7 +297,8 @@
     "page_url": "",
     "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/cvppp2018/0026.pdf",
     "published": "2018-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2018_workshop_leafcountingmultiplescaleregressionanddetectionusingdeepcnns": {
     "conf_id": "BMVC2018",
@@ -299,7 +316,8 @@
     "page_url": "",
     "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/cvppp2018/0031.pdf",
     "published": "2018-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2018_workshop_instancesegmentationforassessmentofplantgrowthdynamicsinartificialsoillessconditions": {
     "conf_id": "BMVC2018",
@@ -315,7 +333,8 @@
     "page_url": "",
     "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/cvppp2018/0027.pdf",
     "published": "2018-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2018_workshop_what\u2019sthatplant?wtplantisadeeplearningsystemtoidentifyplantsinnaturalimages": {
     "conf_id": "BMVC2018",
@@ -332,7 +351,8 @@
     "page_url": "",
     "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/cvppp2018/0028.pdf",
     "published": "2018-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2018_workshop_soybeanleafcoverageestimationforfield-phenotyping": {
     "conf_id": "BMVC2018",
@@ -351,7 +371,8 @@
     "page_url": "",
     "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/cvppp2018/0031.pdf",
     "published": "2018-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2018_workshop_aha-3dalabelleddatasetforseniorfitnessexerciserecognitionandsegmentationfrom3dskeletaldata": {
     "conf_id": "BMVC2018",
@@ -368,7 +389,8 @@
     "page_url": "",
     "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/vibe2018/VIBE001.pdf",
     "published": "2018-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2018_workshop_unsupervisedspeakercueusagedetectioninpublicspeakingvideos": {
     "conf_id": "BMVC2018",
@@ -383,7 +405,8 @@
     "page_url": "",
     "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/vibe2018/VIBE002.pdf",
     "published": "2018-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2018_workshop_tactileloggingforunderstandingplausibletoolusebasedonhumandemonstration": {
     "conf_id": "BMVC2018",
@@ -398,7 +421,8 @@
     "page_url": "",
     "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/vibe2018/VIBE003.pdf",
     "published": "2018-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2018_workshop_onlinemultipleviewtrackingtargetsassociationacrosscameras": {
     "conf_id": "BMVC2018",
@@ -414,6 +438,7 @@
     "page_url": "",
     "pdf_url": "http://www.bmva.org/bmvc/2018/contents/workshops/vibe2018/VIBE004.pdf",
     "published": "2018-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/quoccuongLE/MDP_MTMC_tracking"
   }
 }

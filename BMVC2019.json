@@ -13,7 +13,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0018-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_jointspatialandlayerattentionforconvolutionalnetworks": {
     "conf_id": "BMVC2019",
@@ -29,7 +30,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0258-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_alessbiasedevaluationofout-of-distributionsampledetectors": {
     "conf_id": "BMVC2019",
@@ -45,7 +47,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0333-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/ashafaei/OD-test"
   },
   "bmvc2019_main_unmaskingthedevilinthedetailswhatworksfordeepfacialactioncoding?": {
     "conf_id": "BMVC2019",
@@ -62,7 +65,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0403-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_multi-weightpartialdomainadaptation": {
     "conf_id": "BMVC2019",
@@ -81,7 +85,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0406-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_textrecognitionusinglocalcorrelation": {
     "conf_id": "BMVC2019",
@@ -99,7 +104,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0469-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_detectfusiondetectingandsegmentingbothknownandunknowndynamicobjectsinreal-timeslam": {
     "conf_id": "BMVC2019",
@@ -116,7 +122,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0499-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/martinruenz/co-fusion"
   },
   "bmvc2019_main_bilinearsiamesenetworkswithbackgroundsuppressionforvisualobjecttracking": {
     "conf_id": "BMVC2019",
@@ -133,7 +140,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0564-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_adversarialexamplesforhandcraftedfeatures": {
     "conf_id": "BMVC2019",
@@ -149,7 +157,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0629-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/zohaibali-pk/Adversarial-Noises-for-Handcrafted_Features"
   },
   "bmvc2019_main_one-shotfacereenactment": {
     "conf_id": "BMVC2019",
@@ -168,7 +177,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0690-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/alyssaq/face_morpher"
   },
   "bmvc2019_main_learningtofocusandtrackextremeclimateevents": {
     "conf_id": "BMVC2019",
@@ -189,7 +199,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0728-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_revisitingresidualnetworkswithnonlinearshortcuts": {
     "conf_id": "BMVC2019",
@@ -210,7 +221,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0740-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_unified2dand3dhandposeestimationfromasinglevisibleorx-rayimage": {
     "conf_id": "BMVC2019",
@@ -227,7 +239,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0931-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_perspective-n-learned-pointposeestimationfromrelativedepth": {
     "conf_id": "BMVC2019",
@@ -244,7 +257,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0981-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_jointmulti-viewtexturesuper-resolutionandintrinsicdecomposition": {
     "conf_id": "BMVC2019",
@@ -261,7 +275,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/1049-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_class-distinctandclass-mutualimagegenerationwithgans": {
     "conf_id": "BMVC2019",
@@ -277,7 +292,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/1114-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_guidedzoomquestioningnetworkevidenceforfine-grainedclassification": {
     "conf_id": "BMVC2019",
@@ -297,7 +313,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0061-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_embodiedvision-and-languagenavigationwithdynamicconvolutionalfilters": {
     "conf_id": "BMVC2019",
@@ -314,7 +331,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0384-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_accurateandcompactconvolutionalneuralnetworkswithtrainedbinarization": {
     "conf_id": "BMVC2019",
@@ -329,7 +347,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0588-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_show,inferandtellcontextualinferenceforcreativecaptioning": {
     "conf_id": "BMVC2019",
@@ -344,7 +363,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0655-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_pushforquantizationdeepfisherhashing": {
     "conf_id": "BMVC2019",
@@ -361,7 +381,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0938-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_recnetschannel-wiserecurrentconvolutionalneuralnetworks": {
     "conf_id": "BMVC2019",
@@ -378,7 +399,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/1073-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_pixel-wiseconfidencesforstereodisparitiesusingrecurrentneuralnetworks": {
     "conf_id": "BMVC2019",
@@ -394,7 +416,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0274-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_pan-tilt-zoomslamforsportsvideos": {
     "conf_id": "BMVC2019",
@@ -410,7 +433,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0329-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/lulufa390/Pan-tilt-zoom-SLAM"
   },
   "bmvc2019_main_anevaluationoffeaturematchersforfundamentalmatrixestimation": {
     "conf_id": "BMVC2019",
@@ -430,7 +454,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0450-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_asimpledirectsolutiontotheperspective-three-pointproblem": {
     "conf_id": "BMVC2019",
@@ -444,7 +469,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0533-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_physicalcuebaseddepth-sensingbycolorcodingwithdeaberrationnetwork": {
     "conf_id": "BMVC2019",
@@ -462,7 +488,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0156-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_merge-sfmmergingpartialreconstructions": {
     "conf_id": "BMVC2019",
@@ -478,7 +505,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/1004-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_semi-supervisedmacromoleculestructuralclassificationincellularelectroncryo-tomogramsusing3dautoencodingclassifier": {
     "conf_id": "BMVC2019",
@@ -498,7 +526,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0337-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_largescalejointsemanticre-localisationandsceneunderstandingviagloballyuniqueinstancecoordinateregression": {
     "conf_id": "BMVC2019",
@@ -515,7 +544,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0431-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_matchingfeatureswithoutdescriptorsimplicitlymatchedinterestpoints": {
     "conf_id": "BMVC2019",
@@ -531,7 +561,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0974-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/uzh-rpg/imips_open"
   },
   "bmvc2019_main_triangulationwhyoptimize?": {
     "conf_id": "BMVC2019",
@@ -546,7 +577,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0331-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_single-viewobjectshapereconstructionusingdeepshapepriorandsilhouette": {
     "conf_id": "BMVC2019",
@@ -563,7 +595,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0392-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_learningembeddingof3dmodelswithquadricloss": {
     "conf_id": "BMVC2019",
@@ -579,7 +612,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0452-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_probabilisticreconstructionnetworksfor3dshapeinferencefromasingleimage": {
     "conf_id": "BMVC2019",
@@ -595,7 +629,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0568-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/Regenerator/prns"
   },
   "bmvc2019_main_optimalmulti-viewcorrectionoflocalaffineframes": {
     "conf_id": "BMVC2019",
@@ -610,7 +645,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0816-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/eivan/multiview-LAFs-correction"
   },
   "bmvc2019_main_few-shotviewpointestimation": {
     "conf_id": "BMVC2019",
@@ -630,7 +666,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0125-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_differentiablefixed-rankregularisationusingbilinearparameterisation": {
     "conf_id": "BMVC2019",
@@ -646,7 +683,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0199-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_mitigatingthehubnessproblemforzero-shotlearningof3dobjects": {
     "conf_id": "BMVC2019",
@@ -663,7 +701,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0233-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_optimising3d-cnndesigntowardshumanposeestimationonlowpowerdevices": {
     "conf_id": "BMVC2019",
@@ -680,7 +719,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0327-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_dublincityannotatedlidarpointcloudanditsapplications": {
     "conf_id": "BMVC2019",
@@ -700,7 +740,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0644-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_singleimage3dhandreconstructionwithmeshconvolutions": {
     "conf_id": "BMVC2019",
@@ -718,7 +759,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0653-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/dkulon/hand-reconstruction"
   },
   "bmvc2019_main_mocapnetensembleofsnnencodersfor3dhumanposeestimationinrgbimages": {
     "conf_id": "BMVC2019",
@@ -733,7 +775,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0710-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_anevaluationoffeatureencodingtechniquesfornon-rigidandrigid3dpointcloudretrieval": {
     "conf_id": "BMVC2019",
@@ -748,7 +791,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0932-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_learningdepth-awareheatmapsfor3dhumanposeestimationinthewild": {
     "conf_id": "BMVC2019",
@@ -765,7 +809,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/1217-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_dwnetdensewarp-basednetworkforpose-guidedhumanvideogeneration": {
     "conf_id": "BMVC2019",
@@ -782,7 +827,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/1039-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_annotation-freequalityestimationoffoodgrainsusingdeepneuralnetwork": {
     "conf_id": "BMVC2019",
@@ -800,7 +846,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/1232-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/matterport/Mask_RCNN"
   },
   "bmvc2019_main_differentiableunrolledalternatingdirectionmethodofmultipliersforonenet": {
     "conf_id": "BMVC2019",
@@ -816,7 +863,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0717-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_graph-basedknowledgedistillationbymulti-headattentionnetwork": {
     "conf_id": "BMVC2019",
@@ -831,7 +879,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0821-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_addressingdatabiasproblemsforchestx-rayimagereportgeneration": {
     "conf_id": "BMVC2019",
@@ -848,7 +897,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/1007-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_posefromshapedeepposeestimationforarbitrary3dobjects": {
     "conf_id": "BMVC2019",
@@ -866,7 +916,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0120-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_xnor-net++improvedbinaryneuralnetworks": {
     "conf_id": "BMVC2019",
@@ -881,7 +932,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0121-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_curriculumbaseddropoutdiscriminatorfordomainadaptation": {
     "conf_id": "BMVC2019",
@@ -898,7 +950,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0214-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_directed-weightinggrouplassoforeltwiseblockedcnnpruning": {
     "conf_id": "BMVC2019",
@@ -915,7 +968,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0286-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_camerastyleandidentitydisentanglingnetworkforpersonre-identification": {
     "conf_id": "BMVC2019",
@@ -933,7 +987,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0335-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_pseudo-labelingcurriculumforunsuperviseddomainadaptation": {
     "conf_id": "BMVC2019",
@@ -950,7 +1005,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0350-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_biofacenetdeepbiophysicalfaceimageinterpretation": {
     "conf_id": "BMVC2019",
@@ -965,7 +1021,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0369-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_semantically-awareattentiveneuralembeddingsfor2dlong-termvisuallocalization": {
     "conf_id": "BMVC2019",
@@ -983,7 +1040,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0443-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_epnasefficientprogressiveneuralarchitecturesearch": {
     "conf_id": "BMVC2019",
@@ -998,7 +1056,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0456-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_batch-wiselogit-similaritygeneralizinglogit-squeezingandlabel-smoothing": {
     "conf_id": "BMVC2019",
@@ -1017,7 +1076,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0559-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/MadryLab/cifar10_challenge"
   },
   "bmvc2019_main_scrutinizingandde-biasingintuitivephysicswithneuralstethoscopes": {
     "conf_id": "BMVC2019",
@@ -1037,7 +1097,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0574-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_mixconvmixeddepthwiseconvolutionalkernels": {
     "conf_id": "BMVC2019",
@@ -1052,7 +1113,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0583-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_lookandmodifymodificationnetworksforimagecaptioning": {
     "conf_id": "BMVC2019",
@@ -1067,7 +1129,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0597-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_ordinalpooling": {
     "conf_id": "BMVC2019",
@@ -1085,7 +1148,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0609-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/mistasse/ordinal-pooling-layers"
   },
   "bmvc2019_main_defendingagainstadversarialexamplesusingdefensekernelnetwork": {
     "conf_id": "BMVC2019",
@@ -1103,7 +1167,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0675-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_predictingvisualmemoryschemaswithvariationalautoencoders": {
     "conf_id": "BMVC2019",
@@ -1119,7 +1184,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0734-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_pmc-gansgeneratingmulti-scalehigh-qualitypedestrianwithmultimodalcascadedgans": {
     "conf_id": "BMVC2019",
@@ -1137,7 +1203,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0790-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_contrastivelearningforliftednetworks": {
     "conf_id": "BMVC2019",
@@ -1152,7 +1219,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0830-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_adaptivegraphicalmodelnetworkfor2dhandposeestimation": {
     "conf_id": "BMVC2019",
@@ -1170,7 +1238,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0907-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_bagofnegativesforsiamesearchitectures": {
     "conf_id": "BMVC2019",
@@ -1187,7 +1256,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0934-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_sc-rankimprovingconvolutionalimagecaptioningwithself-criticallearningandrankingmetric-basedreward": {
     "conf_id": "BMVC2019",
@@ -1203,7 +1273,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0936-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_so(2)-equivarianceinneuralnetworksusingtensornonlinearity": {
     "conf_id": "BMVC2019",
@@ -1218,7 +1289,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0944-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_discriminativefeaturesmattermulti-layerbilinearpoolingforcameralocalization": {
     "conf_id": "BMVC2019",
@@ -1237,7 +1309,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0968-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_proseproductoforthogonalspheresparameterizationfordisentangledrepresentationlearning": {
     "conf_id": "BMVC2019",
@@ -1255,7 +1328,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/1056-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_dynamicneuralnetworkchannelexecutionforefficienttraining": {
     "conf_id": "BMVC2019",
@@ -1270,7 +1344,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/1071-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_classificationisastrongbaselinefordeepmetriclearning": {
     "conf_id": "BMVC2019",
@@ -1285,7 +1360,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/1206-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/azgo14/classification_metric_learning.git"
   },
   "bmvc2019_main_functionality-orientedconvolutionalfilterpruning": {
     "conf_id": "BMVC2019",
@@ -1302,7 +1378,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/1240-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_alearning-basedtextsynthesisengineforscenetextdetection": {
     "conf_id": "BMVC2019",
@@ -1319,7 +1396,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0480-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_documentbinarizationusingrecurrentattentiongenerativemodel": {
     "conf_id": "BMVC2019",
@@ -1338,7 +1416,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0647-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_end-to-endinformationextractionbycharacter-levelembeddingandmulti-stageattentionalu-net": {
     "conf_id": "BMVC2019",
@@ -1353,7 +1432,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0870-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/datvo06/MSAU"
   },
   "bmvc2019_main_expression,affect,actionunitrecognitionaff-wild2,multi-tasklearningandarcface": {
     "conf_id": "BMVC2019",
@@ -1368,7 +1448,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0399-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_two-stageimageclassificationsupervisedbyasingleteachersinglestudentmodel": {
     "conf_id": "BMVC2019",
@@ -1384,7 +1465,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0155-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_ms-aslalarge-scaledatasetandbenchmarkforunderstandingamericansignlanguage": {
     "conf_id": "BMVC2019",
@@ -1399,7 +1481,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0254-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_trajectoryspacefactorizationfordeepvideo-based3dhumanposeestimation": {
     "conf_id": "BMVC2019",
@@ -1414,7 +1497,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0257-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/jiahaoLjh/trajectory-pose-3d"
   },
   "bmvc2019_main_birdlearningbinaryandilluminationrobustdescriptorforfacerecognition": {
     "conf_id": "BMVC2019",
@@ -1430,7 +1514,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0268-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/zhuogege1943/bird-descriptor"
   },
   "bmvc2019_main_constructdynamicgraphsforhandgesturerecognitionviaspatial-temporalattention": {
     "conf_id": "BMVC2019",
@@ -1448,7 +1533,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0281-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/yuxiaochen1103/DG-STA"
   },
   "bmvc2019_main_annealedlabeltransferforfaceexpressionrecognition": {
     "conf_id": "BMVC2019",
@@ -1466,7 +1552,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0321-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_flickernetadaptive3dgesturerecognitionfromsparsepointclouds": {
     "conf_id": "BMVC2019",
@@ -1483,7 +1570,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0326-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_pose-awarefacealignmentbasedoncnnand3dmm": {
     "conf_id": "BMVC2019",
@@ -1500,7 +1588,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0352-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_largemarginlossforlearningfacialmovementsfrompseudo-emotions": {
     "conf_id": "BMVC2019",
@@ -1518,7 +1607,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0498-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_bodypartalignmentandtemporalattentionpoolingforvideo-basedpersonre-identification": {
     "conf_id": "BMVC2019",
@@ -1533,7 +1623,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0576-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_automatic4dfacialexpressionrecognitionviacollaborativecross-domaindynamicimagenetwork": {
     "conf_id": "BMVC2019",
@@ -1550,7 +1641,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0729-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_enhancednormalizedmeanerrorlossforrobustfaciallandmarkdetection": {
     "conf_id": "BMVC2019",
@@ -1569,7 +1661,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0772-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_srnstackedregressionnetworkforreal-time3dhandposeestimation": {
     "conf_id": "BMVC2019",
@@ -1587,7 +1680,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0918-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/RenFeiTemp/SRN"
   },
   "bmvc2019_main_faceanti-spoofingviasamplelearningbasedrecurrentneuralnetwork(rnn)": {
     "conf_id": "BMVC2019",
@@ -1604,7 +1698,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0973-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_pattnetpatch-attentivedeepnetworkforactionunitdetection": {
     "conf_id": "BMVC2019",
@@ -1620,7 +1715,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0988-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_end-to-end3dhandposeestimationfromstereocameras": {
     "conf_id": "BMVC2019",
@@ -1639,7 +1735,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0219-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_tagantonalityalignedgenerativeadversarialnetworksforrealistichandposesynthesis": {
     "conf_id": "BMVC2019",
@@ -1660,7 +1757,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0408-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_frustratinglyeasypersonre-identificationgeneralizingpersonre-idinpractice": {
     "conf_id": "BMVC2019",
@@ -1676,7 +1774,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0702-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/BJTUJia/person_reID_DualNorm"
   },
   "bmvc2019_main_delvingdeepintoleastsquareregressionmodelforsubspaceclustering": {
     "conf_id": "BMVC2019",
@@ -1693,7 +1792,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0539-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_variationalsaccadingefficientinferenceforlargeresolutionimages": {
     "conf_id": "BMVC2019",
@@ -1711,7 +1811,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0555-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/jramapuram/variational_saccading"
   },
   "bmvc2019_main_anaccelerationschemeformini-batch,streamingpca": {
     "conf_id": "BMVC2019",
@@ -1726,7 +1827,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0852-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_agenericactivelearningframeworkforclassimbalanceapplications": {
     "conf_id": "BMVC2019",
@@ -1742,7 +1844,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/1067-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_transductivelearningviaimprovedgeodesicsampling": {
     "conf_id": "BMVC2019",
@@ -1758,7 +1861,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0807-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/heaventian93/Data"
   },
   "bmvc2019_main_ageneraltransductiveregularizerforzero-shotlearning": {
     "conf_id": "BMVC2019",
@@ -1776,7 +1880,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0310-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_relation-awaremultipleattentionsiamesenetworksforrobustvisualtracking": {
     "conf_id": "BMVC2019",
@@ -1794,7 +1899,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0416-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_spatialtransformerspectralkernelsfordeformableimageregistration": {
     "conf_id": "BMVC2019",
@@ -1809,7 +1915,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0589-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/ANTsX/ANTsP"
   },
   "bmvc2019_main_trackingtheknownandtheunknownbyleveragingsemanticinformation": {
     "conf_id": "BMVC2019",
@@ -1826,7 +1933,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/1003-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_trackingholisticobjectrepresentations": {
     "conf_id": "BMVC2019",
@@ -1842,7 +1950,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/1065-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/xl-sr/THOR"
   },
   "bmvc2019_main_videouprightadjustmentandstabilization": {
     "conf_id": "BMVC2019",
@@ -1857,7 +1966,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0265-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_videostitchingforlinearcameraarrays": {
     "conf_id": "BMVC2019",
@@ -1876,7 +1986,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0453-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_learningtarget-awareattentionforrobusttrackingwithconditionaladversarialnetwork": {
     "conf_id": "BMVC2019",
@@ -1893,7 +2004,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0562-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_featuresforgroundtexturebasedlocalization\u2013asurvey": {
     "conf_id": "BMVC2019",
@@ -1909,7 +2021,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0949-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_self-supervisedvideorepresentationlearningforcorrespondenceflow": {
     "conf_id": "BMVC2019",
@@ -1924,7 +2037,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0599-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_pmnetlearningofdisentangledposeandmovementforunsupervisedmotionretargeting": {
     "conf_id": "BMVC2019",
@@ -1940,7 +2054,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0997-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_dosaliencymodelsdetectodd-one-outtargets?newdatasetsandevaluations": {
     "conf_id": "BMVC2019",
@@ -1957,7 +2072,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0203-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/ykotseruba/SALICONtf"
   },
   "bmvc2019_main_pcaspruningchannelswithattentionstatisticsfordeepnetworkcompression": {
     "conf_id": "BMVC2019",
@@ -1972,7 +2088,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0550-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_largemargininsoftmaxcross-entropyloss": {
     "conf_id": "BMVC2019",
@@ -1986,7 +2103,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0636-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_convolutionalcrfsforsemanticsegmentation": {
     "conf_id": "BMVC2019",
@@ -2001,7 +2119,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0865-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_groupbaseddeepsharedfeaturelearningforfine-grainedimageclassification": {
     "conf_id": "BMVC2019",
@@ -2016,7 +2135,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0885-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/xueluli/GSFL-Net"
   },
   "bmvc2019_main_objectaffordancesgraphnetworkforactionrecognition": {
     "conf_id": "BMVC2019",
@@ -2035,7 +2155,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0078-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_imagecaptioningwithunseenobjects": {
     "conf_id": "BMVC2019",
@@ -2051,7 +2172,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0124-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_residualmultiscalebasedsingleimagederaining": {
     "conf_id": "BMVC2019",
@@ -2068,7 +2190,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0168-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_open-setrecognitionofunseenmacromoleculesincellularelectroncryo-tomogramsbysoftlargemargincentralizedcosineloss": {
     "conf_id": "BMVC2019",
@@ -2086,7 +2209,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0347-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_learnablegatedtemporalshiftmoduleforfree-formvideoinpainting": {
     "conf_id": "BMVC2019",
@@ -2103,7 +2227,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0355-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/amjltc295/Free-Form-Video-Inpainting"
   },
   "bmvc2019_main_ms-gantexttoimagesynthesiswithattention-modulatedgeneratorsandsimilarity-awarediscriminators": {
     "conf_id": "BMVC2019",
@@ -2121,7 +2246,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0413-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_unsupervisedandexplainableassessmentofvideosimilarity": {
     "conf_id": "BMVC2019",
@@ -2136,7 +2262,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0417-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_autocorrectdeepinductivealignmentofnoisygeometricannotations": {
     "conf_id": "BMVC2019",
@@ -2153,7 +2280,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0474-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_adaptivecompression-basedlifelonglearning": {
     "conf_id": "BMVC2019",
@@ -2170,7 +2298,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0649-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/fmfn/BayesianOptimization"
   },
   "bmvc2019_main_tarntemporalattentiverelationnetworkforfew-shotandzero-shotactionrecognition": {
     "conf_id": "BMVC2019",
@@ -2186,7 +2315,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0650-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_adaptivelightingfordata-drivennon-line-of-sight3dlocalizationandobjectidentification": {
     "conf_id": "BMVC2019",
@@ -2201,7 +2331,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0723-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/sreenithy/AdaptiveLighting_NLOS"
   },
   "bmvc2019_main_hybriddeepnetworkforanomalydetection": {
     "conf_id": "BMVC2019",
@@ -2216,7 +2347,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0726-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_fastandmultilevelsemantic-preservingdiscretehashing": {
     "conf_id": "BMVC2019",
@@ -2236,7 +2368,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0788-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_miningdiscriminativefoodregionsforaccuratefoodrecognition": {
     "conf_id": "BMVC2019",
@@ -2254,7 +2387,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0839-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_attentionaldemandestimationwithattentivedrivingmodels": {
     "conf_id": "BMVC2019",
@@ -2270,7 +2404,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0996-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_forecastingfutureactionsequenceswithneuralmemorynetworks": {
     "conf_id": "BMVC2019",
@@ -2287,7 +2422,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0585-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_zero-shotsignlanguagerecognitioncantextualdatauncoversignlanguages?": {
     "conf_id": "BMVC2019",
@@ -2303,7 +2439,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0122-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_anefficient3dcnnforaction/objectsegmentationinvideo": {
     "conf_id": "BMVC2019",
@@ -2320,7 +2457,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0162-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_pedestrianactionanticipationusingcontextualfeaturefusioninstackedrnns": {
     "conf_id": "BMVC2019",
@@ -2336,7 +2474,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0283-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/aras62/SF-GRU"
   },
   "bmvc2019_main_focusedattentionforactionrecognition": {
     "conf_id": "BMVC2019",
@@ -2352,7 +2491,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0299-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/gsig/PyVideoResearch"
   },
   "bmvc2019_main_dynamicgraphmodulesformodelingobject-objectinteractionsinactivityrecognition": {
     "conf_id": "BMVC2019",
@@ -2370,7 +2510,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0524-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_weakly-supervised3dposeestimationfromasingleimageusingmulti-viewconsistency": {
     "conf_id": "BMVC2019",
@@ -2386,7 +2527,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0552-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_learningvisualactionsusingmultipleverb-onlylabels": {
     "conf_id": "BMVC2019",
@@ -2401,7 +2543,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0615-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/mwray/Multi-Verb-Labels"
   },
   "bmvc2019_main_aspatiotemporalpre-processingnetworkforactivityrecognitionunderrain": {
     "conf_id": "BMVC2019",
@@ -2418,7 +2561,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0880-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_edgedetectionforeventcamerasusingintra-pixel-areaevents": {
     "conf_id": "BMVC2019",
@@ -2434,7 +2578,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/1140-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_simplevscomplextemporalrecurrencesforvideosaliencyprediction": {
     "conf_id": "BMVC2019",
@@ -2453,7 +2598,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0952-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_sensor-independentilluminationestimationfordnnmodels": {
     "conf_id": "BMVC2019",
@@ -2468,7 +2614,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0105-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_convolutionalmeanasimpleconvolutionalneuralnetworkforilluminantestimation": {
     "conf_id": "BMVC2019",
@@ -2482,7 +2629,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0216-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_contentandcolourdistillationforlearningimagetranslationswiththespatialprofileloss": {
     "conf_id": "BMVC2019",
@@ -2499,7 +2647,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0721-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/ssarfraz/SPL"
   },
   "bmvc2019_main_quantitativeanalysisofsimilaritymeasuresofdistributions": {
     "conf_id": "BMVC2019",
@@ -2515,7 +2664,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0039-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/CVMethods/image_clasifier.git"
   },
   "bmvc2019_main_gatedmultiplefeedbacknetworkforimagesuper-resolution": {
     "conf_id": "BMVC2019",
@@ -2534,7 +2684,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0103-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/liqilei/GMFN"
   },
   "bmvc2019_main_wideactivationforefficientimageandvideosuper-resolution": {
     "conf_id": "BMVC2019",
@@ -2550,7 +2701,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0288-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_higherorderdictionarylearningforcompressedsensingbaseddynamicmrireconstruction": {
     "conf_id": "BMVC2019",
@@ -2567,7 +2719,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0553-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_robustjointimagereconstructionfromcolorandmonochromecameras": {
     "conf_id": "BMVC2019",
@@ -2583,7 +2736,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0754-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_progressivefacesuper-resolutionviaattentiontofaciallandmark": {
     "conf_id": "BMVC2019",
@@ -2600,7 +2754,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0820-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/DeokyunKim/Progressive-Face-Super-Resolution"
   },
   "bmvc2019_main_anunsupervisedsubspacerankingmethodforcontinuousemotionsinfaceimages": {
     "conf_id": "BMVC2019",
@@ -2617,7 +2772,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0831-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_deeplearningforrobustend-to-endtonemapping": {
     "conf_id": "BMVC2019",
@@ -2632,7 +2788,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0849-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_base-detailimageinpainting": {
     "conf_id": "BMVC2019",
@@ -2649,7 +2806,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/1116-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_generalisedvisualmicrophone": {
     "conf_id": "BMVC2019",
@@ -2663,7 +2821,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/1218-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_guideyoureyeslearningimagemanipulationundersaliencyguidance": {
     "conf_id": "BMVC2019",
@@ -2681,7 +2840,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0160-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/YenchungChen/GuideYourEyes"
   },
   "bmvc2019_main_element-embeddedstyletransfernetworksforstyleharmonization": {
     "conf_id": "BMVC2019",
@@ -2697,7 +2857,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0425-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_harmonicnetworksforimageclassification": {
     "conf_id": "BMVC2019",
@@ -2713,7 +2874,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0628-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/facebook/fb.resnet"
   },
   "bmvc2019_main_semi-supervisedfeature-levelattributemanipulationforfashionimageretrieval": {
     "conf_id": "BMVC2019",
@@ -2729,7 +2891,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0773-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_blindimagedeconvolutionusingpretrainedgenerativepriors": {
     "conf_id": "BMVC2019",
@@ -2745,7 +2908,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/1042-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_singleimagesuper-resolutionviacnnarchitecturesandtv-tvminimization": {
     "conf_id": "BMVC2019",
@@ -2760,7 +2924,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/1119-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/jbhuang0604/SelfExSR"
   },
   "bmvc2019_main_ptychonetfastandhighqualityphaseretrievalforptychography": {
     "conf_id": "BMVC2019",
@@ -2778,7 +2943,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/1172-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_texel-attrepresentingandclassifyingelement-basedtexturesbyattributes": {
     "conf_id": "BMVC2019",
@@ -2796,7 +2962,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0359-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/godimarcovr/Texel-Att"
   },
   "bmvc2019_main_style-guidedzero-shotsketch-basedimageretrieval": {
     "conf_id": "BMVC2019",
@@ -2811,7 +2978,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0703-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_robustsynthesisofadversarialvisualexamplesusingadeepimageprior": {
     "conf_id": "BMVC2019",
@@ -2827,7 +2995,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0165-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_orthographicfeaturetransformformonocular3dobjectdetection": {
     "conf_id": "BMVC2019",
@@ -2843,7 +3012,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0328-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_anempiricalstudyonleveragingscenegraphsforvisualquestionanswering": {
     "conf_id": "BMVC2019",
@@ -2859,7 +3029,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0739-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_generalizedzero-shotlearningusingopensetrecognition": {
     "conf_id": "BMVC2019",
@@ -2876,7 +3047,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0035-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_highfrequencyresiduallearningformulti-scaleimageclassification": {
     "conf_id": "BMVC2019",
@@ -2894,7 +3066,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0144-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_learningefficientdetectorwithsemi-supervisedadaptivedistillation": {
     "conf_id": "BMVC2019",
@@ -2913,7 +3086,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0145-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_knowledgedistillationforend-to-endpersonsearch": {
     "conf_id": "BMVC2019",
@@ -2929,7 +3103,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0198-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/munjalbharti/Query-guided-End-to-End-Person-Search"
   },
   "bmvc2019_main_one-shotscene-specificcrowdcounting": {
     "conf_id": "BMVC2019",
@@ -2947,7 +3122,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0209-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_exploringthevulnerabilityofsingleshotmoduleinobjectdetectorsviaimperceptiblebackgroundpatches": {
     "conf_id": "BMVC2019",
@@ -2964,7 +3140,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0284-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_balancingspecialization,generalization,andcompressionfordetectionandtracking": {
     "conf_id": "BMVC2019",
@@ -2982,7 +3159,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0289-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_efficientcoarse-to-finenon-localmoduleforthedetectionofsmallobjects": {
     "conf_id": "BMVC2019",
@@ -2997,7 +3175,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0334-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_multi-scaletemplatematchingwithscalablediversitysimilarityinanunconstrainedenvironment": {
     "conf_id": "BMVC2019",
@@ -3013,7 +3192,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0541-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_improvingmulti-stageobjectdetectionviaiterativeproposalrefinement": {
     "conf_id": "BMVC2019",
@@ -3029,7 +3209,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0545-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_generatingexpensiverelationshipfeaturesfromcheapobjects": {
     "conf_id": "BMVC2019",
@@ -3046,7 +3227,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0657-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/xiaogangw/GeneratingExpensive-Relationship-Features-from-Cheap-Objects.git"
   },
   "bmvc2019_main_softsamplingforrobustobjectdetection": {
     "conf_id": "BMVC2019",
@@ -3065,7 +3247,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0662-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_jointlearningofattendedzero-shotfeaturesandvisual-semanticmapping": {
     "conf_id": "BMVC2019",
@@ -3080,7 +3263,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0681-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_cascaderetinanetmaintainingconsistencyforsingle-stageobjectdetection": {
     "conf_id": "BMVC2019",
@@ -3098,7 +3282,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0809-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/facebookresearch/detectron"
   },
   "bmvc2019_main_deeplearningfusionofrgbanddepthimagesforpedestriandetection": {
     "conf_id": "BMVC2019",
@@ -3116,7 +3301,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0847-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_bmnetareconstructednetworkforlightweightobjectdetectionviabranchmerging": {
     "conf_id": "BMVC2019",
@@ -3136,7 +3322,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0908-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_anadaptivesupervisionframeworkforactivelearninginobjectdetection": {
     "conf_id": "BMVC2019",
@@ -3154,7 +3341,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0921-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/jwyang/faster-rcnn.pytorch"
   },
   "bmvc2019_main_adversarialsignboardagainstobjectdetector": {
     "conf_id": "BMVC2019",
@@ -3170,7 +3358,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/1017-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_domainadaptationforobjectdetectionviastyleconsistency": {
     "conf_id": "BMVC2019",
@@ -3185,7 +3374,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/1038-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_hydrapickerfullyautomatedparticlepickingincryo-embyutilizingdatasetbiasinsingleshotdetection": {
     "conf_id": "BMVC2019",
@@ -3200,7 +3390,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/1044-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_rethinkingconvolutionalfeatureextractionforsmallobjectdetection": {
     "conf_id": "BMVC2019",
@@ -3215,7 +3406,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/1057-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/burhanmudassar/smallObject.git"
   },
   "bmvc2019_main_geometry-awarevideoobjectdetectionforstaticcameras": {
     "conf_id": "BMVC2019",
@@ -3231,7 +3423,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0218-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_atop-downunifiedframeworkforinstance-levelhumanparsing": {
     "conf_id": "BMVC2019",
@@ -3249,7 +3442,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0041-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_rethinkingclassificationandlocalizationforcascader-cnn": {
     "conf_id": "BMVC2019",
@@ -3265,7 +3459,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0085-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_spatiallyandtemporallyefficientnon-localattentionnetworkforvideo-basedpersonre-identification": {
     "conf_id": "BMVC2019",
@@ -3282,7 +3477,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0398-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/jackie840129/STE-NVAN"
   },
   "bmvc2019_main_globalaggregationthenlocaldistributioninfullyconvolutionalnetworks": {
     "conf_id": "BMVC2019",
@@ -3301,7 +3497,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0432-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_cluenetadeepframeworkforoccludedpedestrianposeestimation": {
     "conf_id": "BMVC2019",
@@ -3318,7 +3515,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0466-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_improvingobjectdetectionfromscratchviagatedfeaturereuse": {
     "conf_id": "BMVC2019",
@@ -3341,7 +3539,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0663-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/szq0214/GFR-DSOD"
   },
   "bmvc2019_main_metalearningforunsupervisedclustering": {
     "conf_id": "BMVC2019",
@@ -3357,7 +3556,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/1016-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_enhanced3dconvolutionalnetworksforcrowdcounting": {
     "conf_id": "BMVC2019",
@@ -3375,7 +3575,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/1082-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_imageclassificationwithhierarchicalmultigraphnetworks": {
     "conf_id": "BMVC2019",
@@ -3392,7 +3593,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/1186-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_towardsweaklysupervisedsemanticsegmentationin3dgraph-structuredpointcloudsofwildscenes": {
     "conf_id": "BMVC2019",
@@ -3409,7 +3611,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0221-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_fast-scnnfastsemanticsegmentationnetwork": {
     "conf_id": "BMVC2019",
@@ -3425,7 +3628,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0959-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_dualgraphconvolutionalnetworkforsemanticsegmentation": {
     "conf_id": "BMVC2019",
@@ -3444,7 +3648,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0089-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/lzrobots/DGCNet"
   },
   "bmvc2019_main_wherearethemasksinstancesegmentationwithimage-levelsupervision": {
     "conf_id": "BMVC2019",
@@ -3460,7 +3665,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0112-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_geometry-awareend-to-endskeletondetection": {
     "conf_id": "BMVC2019",
@@ -3476,7 +3682,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0175-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_workinghandsahand-toolassemblydatasetforimagesegmentationandactivitymining": {
     "conf_id": "BMVC2019",
@@ -3493,7 +3700,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0874-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/wkentaro/labelme"
   },
   "bmvc2019_main_dabnetdepth-wiseasymmetricbottleneckforreal-timesemanticsegmentation": {
     "conf_id": "BMVC2019",
@@ -3508,7 +3716,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0955-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/Reagan1311/DABNet"
   },
   "bmvc2019_main_featurepyramidencodingnetworkforreal-timesemanticsegmentation": {
     "conf_id": "BMVC2019",
@@ -3523,7 +3732,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/1031-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_visuomotorunderstandingforrepresentationlearningofdrivingscenes": {
     "conf_id": "BMVC2019",
@@ -3543,7 +3753,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0002-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_referringexpressionobjectsegmentationwithcaption-awareconsistency": {
     "conf_id": "BMVC2019",
@@ -3561,7 +3772,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0196-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/wenz116/lang2seg"
   },
   "bmvc2019_main_dispersionbasedclusteringforunsupervisedpersonre-identification": {
     "conf_id": "BMVC2019",
@@ -3577,7 +3789,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0459-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_ovalshapeconstraintbasedopticdiscandcupsegmentationinfundusphotographs": {
     "conf_id": "BMVC2019",
@@ -3597,7 +3810,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0677-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_anend-to-enddeeplearningapproachforsimultaneousbackgroundmodelingandsubtraction": {
     "conf_id": "BMVC2019",
@@ -3614,7 +3828,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0984-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_spatio-temporalrelationalreasoningforvideoquestionanswering": {
     "conf_id": "BMVC2019",
@@ -3630,7 +3845,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0269-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/gursimar/STRN"
   },
   "bmvc2019_main_mutualsuppressionnetworkforvideopredictionusingdisentangledfeatures": {
     "conf_id": "BMVC2019",
@@ -3647,7 +3863,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0336-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_learningspatio-temporalfeatureswithtwo-streamdeep3dcnnsforlipreading": {
     "conf_id": "BMVC2019",
@@ -3662,7 +3879,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0016-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_motion-awarefeatureforimprovedvideoanomalydetection": {
     "conf_id": "BMVC2019",
@@ -3677,7 +3895,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0129-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_attention-basedfacialbehavioranalyticsinsocialcommunication": {
     "conf_id": "BMVC2019",
@@ -3697,7 +3916,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0491-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_searchingforambiguousobjectsinvideosusingrelationalreferringexpressions": {
     "conf_id": "BMVC2019",
@@ -3715,7 +3935,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0697-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/hazananayurt/viref"
   },
   "bmvc2019_main_vstegnetvideosteganographynetworkusingspatio-temporalfeaturesandmicro-bottleneck": {
     "conf_id": "BMVC2019",
@@ -3732,7 +3953,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0966-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_ordermattersshufflingsequencegenerationforvideoprediction": {
     "conf_id": "BMVC2019",
@@ -3749,7 +3971,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/1023-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/andrewjywang/SEENet"
   },
   "bmvc2019_main_multi-grainedspatio-temporalmodelingforlip-reading": {
     "conf_id": "BMVC2019",
@@ -3763,7 +3986,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/1211-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_remotephotoplethysmographsignalmeasurementfromfacialvideosusingspatio-temporalnetworks": {
     "conf_id": "BMVC2019",
@@ -3779,7 +4003,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0186-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_spatio-temporalassociativerepresentationforvideopersonre-identification": {
     "conf_id": "BMVC2019",
@@ -3795,7 +4020,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0332-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_usewhatyouhavevideoretrievalusingrepresentationsfromcollaborativeexperts": {
     "conf_id": "BMVC2019",
@@ -3812,7 +4038,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/0363-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   },
   "bmvc2019_main_videonavqabridgingthegapbetweenvisualandembodiedquestionanswering": {
     "conf_id": "BMVC2019",
@@ -3828,7 +4055,8 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/1125-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": "https://github.com/catalina17/VideoNavQA"
   },
   "bmvc2019_main_mlgcnmulti-laplaciangraphconvolutionalnetworksforhumanactionrecognition": {
     "conf_id": "BMVC2019",
@@ -3843,6 +4071,7 @@
     "page_url": "",
     "pdf_url": "https://bmvc2019.org/wp-content/uploads/papers/1103-paper.pdf",
     "published": "2019-09",
-    "summary": ""
+    "summary": "",
+    "code_link": ""
   }
 }
