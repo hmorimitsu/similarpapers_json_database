@@ -1,0 +1,323 @@
+{
+  "wacv2023_rws_anautomatedandscalablemlsolutionformappinginvasivespeciesthecaseoftheaustraliantreeferninhawaiianforests": {
+    "conf_id": "WACV2023",
+    "conf_sub_id": "RWS",
+    "is_workshop": true,
+    "conf_name": "WACV2023_workshops - Real-World Surveillance: Applications and Challenges",
+    "title": "An Automated and Scalable ML Solution for Mapping Invasive Species: The Case of the Australian Tree Fern in Hawaiian Forests",
+    "authors": [
+      "Ovidiu Dan Iancu",
+      "Kara Yang",
+      "Han Man",
+      "Theresa Cabrera Menard"
+    ],
+    "page_url": "http://openaccess.thecvf.com/content/WACV2023W/RWS/html/Iancu_An_Automated_and_Scalable_ML_Solution_for_Mapping_Invasive_Species_WACVW_2023_paper.html",
+    "pdf_url": "http://openaccess.thecvf.com/content/WACV2023W/RWS/papers/Iancu_An_Automated_and_Scalable_ML_Solution_for_Mapping_Invasive_Species_WACVW_2023_paper.pdf",
+    "published": "2023-01",
+    "summary": "Biodiversity loss and ecosystem degradation are global challenges demanding creative and scalable solutions. Recent increases in data collection coupled with machine learning have the potential to expand landscape monitoring capabilities. We present a computer vision solution to the problem of identifying invasive species. The Australian Tree Fern (Cyathea cooperi) is a fast growing species that is displacing slower growing native plants across the Hawaiian islands. The Nature Conservancy organization has partnered with Amazon Web Services to develop and test an automated tree fern detection and mapping solution based on imagery collected from fixed wing aircraft. We utilize deep learning to identify tree ferns and map their locations. Distinguishing between invasive and native tree ferns in aerial images is challenging for human experts. We explore techniques such as image embeddings and principal component analysis to assist in the classification. Creating quality training datasets is critical for developing ML solutions. We describe how semi-automated labeling tools can expedite this process. These steps are integrated into an automated cloud native inference pipeline that reduces localization time from weeks to minutes. We further investigate issues encountered when the pipeline is utilized on novel images and a decline in performance relative to the training data is observed. We trace the origin of the problem to a subset of images originating from steep mountain slopes and riverbanks which generate blurring and streaking patterns mistakenly labeled as tree ferns. We propose a pre-processing step based on Haralick texture features which detects and flags images different from the training set. Experimental results show that the proposed method performs well and can potentially enhance the model performance by relabeling and retraining the model iteratively."
+  },
+  "wacv2023_rws_multimodaldataaugmentationforvisual-infraredpersonreidwithcorrupteddata": {
+    "conf_id": "WACV2023",
+    "conf_sub_id": "RWS",
+    "is_workshop": true,
+    "conf_name": "WACV2023_workshops - Real-World Surveillance: Applications and Challenges",
+    "title": "Multimodal Data Augmentation for Visual-Infrared Person ReID With Corrupted Data",
+    "authors": [
+      "Arthur Josi",
+      "Mahdi Alehdaghi",
+      "Rafael M. O. Cruz",
+      "Eric Granger"
+    ],
+    "page_url": "http://openaccess.thecvf.com/content/WACV2023W/RWS/html/Josi_Multimodal_Data_Augmentation_for_Visual-Infrared_Person_ReID_With_Corrupted_Data_WACVW_2023_paper.html",
+    "pdf_url": "http://openaccess.thecvf.com/content/WACV2023W/RWS/papers/Josi_Multimodal_Data_Augmentation_for_Visual-Infrared_Person_ReID_With_Corrupted_Data_WACVW_2023_paper.pdf",
+    "published": "2023-01",
+    "summary": "The re-identification (ReID) of individuals over a complex|network of cameras is a challenging task, especially|under real-world surveillance conditions. Several deep|learning models have been proposed for visible-infrared (VI)|person ReID to recognize individuals from images captured|using RGB and IR cameras. However, performance|may decline considerably if RGB and IR images captured at|test time are corrupted (e.g., noise, blur, and weather conditions).|Although various data augmentation (DA) methods|have been explored to improve the generalization capacity,|these are not adapted for V-I person ReID. In this|paper, a specialized DA strategy is proposed to address|this multimodal setting. Given both the V and I modalities,|this strategy allows to diminish the impact of corruption|on the accuracy of deep person ReID models. Corruption|may be modality-specific, and an additional modality|often provides complementary information. Our multimodal|DA strategy is designed specifically to encourage|modality collaboration and reinforce generalization capability.|For instance, punctual masking of modalities forces|the model to select the informative modality. Local DA is|also explored for advanced selection of features within and|among modalities. The impact of training baseline fusion|models for V-I person ReID using the proposed multimodal|DA strategy is assessed on corrupted versions of the SYSUMM01,|RegDB, and ThermalWORLD datasets in terms of|complexity and efficiency. Results indicate that using our|strategy provides V-I ReID models the ability to exploit both|shared and individual modality knowledge so they can outperform|models trained with no or unimodal DA. GitHub|code: https://github.com/art2611/ML-MDA."
+  },
+  "wacv2023_rws_uparchallengepedestrianattributerecognitionandattribute-basedpersonretrieval--dataset,design,andresults": {
+    "conf_id": "WACV2023",
+    "conf_sub_id": "RWS",
+    "is_workshop": true,
+    "conf_name": "WACV2023_workshops - Real-World Surveillance: Applications and Challenges",
+    "title": "UPAR Challenge: Pedestrian Attribute Recognition and Attribute-Based Person Retrieval -- Dataset, Design, and Results",
+    "authors": [
+      "Mickael Cormier",
+      "Andreas Specker",
+      "Julio C. S. Jacques Junior",
+      "Lucas Florin",
+      "J\u00fcrgen Metzler",
+      "Thomas B. Moeslund",
+      "Kamal Nasrollahi",
+      "Sergio Escalera",
+      "J\u00fcrgen Beyerer"
+    ],
+    "page_url": "http://openaccess.thecvf.com/content/WACV2023W/RWS/html/Cormier_UPAR_Challenge_Pedestrian_Attribute_Recognition_and_Attribute-Based_Person_Retrieval_--_WACVW_2023_paper.html",
+    "pdf_url": "http://openaccess.thecvf.com/content/WACV2023W/RWS/papers/Cormier_UPAR_Challenge_Pedestrian_Attribute_Recognition_and_Attribute-Based_Person_Retrieval_--_WACVW_2023_paper.pdf",
+    "published": "2023-01",
+    "summary": "In civilian video security monitoring, retrieving and tracking a person of interest often rely on witness testimony and their appearance description. |Deployed systems rely on a large amount of annotated training data and are expected to show consistent performance in diverse areas and generalize well between diverse settings w.r.t. different viewpoints, illumination, resolution, occlusions, and poses for indoor and outdoor scenes. However, for such generalization, the system would require a large amount of various annotated data for training and evaluation. |The WACV 2023 Pedestrian Attribute Recognition and Attributed-based Person Retrieval Challenge (UPAR-Challenge) aimed to spotlight the problem of domain gaps in a real-world surveillance context and highlight the challenges and limitations of existing methods.|The UPAR dataset, composed of 40 important binary attributes over 12 attribute categories across four datasets, was extended with data captured from a low-flying UAV from the P-DESTRE dataset. |To this aim, 0.6M additional annotations were manually labeled and validated. Each track evaluated the robustness of the competing methods to domain shifts by training on limited data|from a specific domain and evaluating using data from unseen domains. The challenge attracted 41 registered participants, but only one team managed to outperform the baseline on one track, emphasizing the task's difficulty. |This work describes the challenge design, the adopted dataset, obtained results, as well as future directions on the topic."
+  },
+  "wacv2023_rws_thermalsynthanovelapproachforgeneratingsyntheticthermalhumanscenarios": {
+    "conf_id": "WACV2023",
+    "conf_sub_id": "RWS",
+    "is_workshop": true,
+    "conf_name": "WACV2023_workshops - Real-World Surveillance: Applications and Challenges",
+    "title": "ThermalSynth: A Novel Approach for Generating Synthetic Thermal Human Scenarios",
+    "authors": [
+      "Neelu Madan",
+      "Mia Sandra Nicole Siemon",
+      "Magnus Kaufmann Gjerde",
+      "Bastian Starup Petersson",
+      "Arijus Grotuzas",
+      "Malthe Aaholm Esbensen",
+      "Ivan Adriyanov Nikolov",
+      "Mark Philip Philipsen",
+      "Kamal Nasrollahi",
+      "Thomas B. Moeslund"
+    ],
+    "page_url": "http://openaccess.thecvf.com/content/WACV2023W/RWS/html/Madan_ThermalSynth_A_Novel_Approach_for_Generating_Synthetic_Thermal_Human_Scenarios_WACVW_2023_paper.html",
+    "pdf_url": "http://openaccess.thecvf.com/content/WACV2023W/RWS/papers/Madan_ThermalSynth_A_Novel_Approach_for_Generating_Synthetic_Thermal_Human_Scenarios_WACVW_2023_paper.pdf",
+    "published": "2023-01",
+    "summary": "In this paper, we propose ThermalSynth, a novel approach for creating synthetic thermal images by mixing 3D characters generated using the Unity game engine with real thermal backgrounds. We use a shader based on the Stefan-Boltzmann law [18] to approximate the appearance in the thermal domain of the synthetic characters. Additionally, we provide a post-processing pipeline to better blend the high-fidelity synthetic data with the lower-resolution real thermal surveillance one. The proposed approach is used to create a dataset for people falling into water near a harbor front. Diverse scenarios of such falls are generated with an ample amount of data to enable the use of deep learning algorithms. To demonstrate the effectiveness of the generated data, we train two standard deep neural networks (AlexNet and ResNet-18) on our synthetic thermal dataset using a supervised learning approach. We test our system on small datasets containing real video footage of actual falls. We observe that training these simple classification networks yields an accuracy of 98.70% at a sensitivity of 100% on the real-world voluntary fall dataset. The code for ThermalSynth and the dataset is publically available at https://github.com/NeeluMadan/Thermal-Synth."
+  },
+  "wacv2023_rws_bringinggeneralizationtodeepmulti-viewpedestriandetection": {
+    "conf_id": "WACV2023",
+    "conf_sub_id": "RWS",
+    "is_workshop": true,
+    "conf_name": "WACV2023_workshops - Real-World Surveillance: Applications and Challenges",
+    "title": "Bringing Generalization to Deep Multi-View Pedestrian Detection",
+    "authors": [
+      "Jeet Vora",
+      "Swetanjal Dutta",
+      "Kanishk Jain",
+      "Shyamgopal Karthik",
+      "Vineet Gandhi"
+    ],
+    "page_url": "http://openaccess.thecvf.com/content/WACV2023W/RWS/html/Vora_Bringing_Generalization_to_Deep_Multi-View_Pedestrian_Detection_WACVW_2023_paper.html",
+    "pdf_url": "http://openaccess.thecvf.com/content/WACV2023W/RWS/papers/Vora_Bringing_Generalization_to_Deep_Multi-View_Pedestrian_Detection_WACVW_2023_paper.pdf",
+    "published": "2023-01",
+    "summary": "Multi-view Detection (MVD) is highly effective for occlusion reasoning in a crowded environment. While recent works using deep learning have made significant advances in the field, they have overlooked the generalization aspect, which makes them impractical for real-world deployment. The key novelty of our work is to formalize three critical forms of generalization and propose experiments to evaluate them: generalization with i) a varying number of cameras, ii) varying camera positions, and finally, iii) to new scenes. We find that existing state-of-the-art models show poor generalization by overfitting to a single scene and camera configuration. To address the concerns: (a) we propose a novel Generalized MVD (GMVD) dataset, assimilating diverse scenes with changing daytime, camera configurations, varying number of cameras, and (b) we discuss the properties essential to bring generalization to MVD and propose a barebones model to incorporate them. We perform a comprehensive set of experiments on the WildTrack, MultiViewX and the GMVD datasets to motivate the necessity to evaluate generalization abilities of MVD methods and to demonstrate the efficacy of the proposed approach."
+  },
+  "wacv2023_rws_transformerbasedmulti-grainedfeaturesforunsupervisedpersonre-identification": {
+    "conf_id": "WACV2023",
+    "conf_sub_id": "RWS",
+    "is_workshop": true,
+    "conf_name": "WACV2023_workshops - Real-World Surveillance: Applications and Challenges",
+    "title": "Transformer Based Multi-Grained Features for Unsupervised Person Re-Identification",
+    "authors": [
+      "Jiachen Li",
+      "Menglin Wang",
+      "Xiaojin Gong"
+    ],
+    "page_url": "http://openaccess.thecvf.com/content/WACV2023W/RWS/html/Li_Transformer_Based_Multi-Grained_Features_for_Unsupervised_Person_Re-Identification_WACVW_2023_paper.html",
+    "pdf_url": "http://openaccess.thecvf.com/content/WACV2023W/RWS/papers/Li_Transformer_Based_Multi-Grained_Features_for_Unsupervised_Person_Re-Identification_WACVW_2023_paper.pdf",
+    "published": "2023-01",
+    "summary": "Multi-grained features extracted from convolutional neural networks (CNNs) have demonstrated their strong discrimination ability in supervised person re-identification (Re-ID) tasks. Inspired by them, this work investigates the way of extracting multi-grained features from a pure transformer network to address the unsupervised Re-ID problem that is label-free but much more challenging. To this end, we build a dual-branch network architecture based upon a modified Vision Transformer (ViT). The local tokens output in each branch are reshaped and then uniformly partitioned into multiple stripes to generate part-level features, while the global tokens of two branches are averaged to produce a global feature. Further, based upon offline-online associated camera-aware proxies (O2CAP) that is a top-performing unsupervised Re-ID method, we define offline and online contrastive learning losses with respect to both global and part-level features to conduct unsupervised learning. Extensive experiments on three person Re-ID datasets show that the proposed method outperforms state-of-the-art unsupervised methods by a considerable margin, greatly mitigating the gap to supervised counterparts. Code will be available soon at https://github.com/RikoLi/WACV23-workshop-TMGF."
+  },
+  "wacv2023_rws_emodefficientmovingobjectdetectionviaimageeccentricityanalysisandsparseneuralnetworks": {
+    "conf_id": "WACV2023",
+    "conf_sub_id": "RWS",
+    "is_workshop": true,
+    "conf_name": "WACV2023_workshops - Real-World Surveillance: Applications and Challenges",
+    "title": "EMOD: Efficient Moving Object Detection via Image Eccentricity Analysis and Sparse Neural Networks",
+    "authors": [
+      "Xiaomin Li",
+      "Ramin Nabati",
+      "Kunjan Singh",
+      "Enrique Corona",
+      "Vangelis Metsis",
+      "Armin Parchami"
+    ],
+    "page_url": "http://openaccess.thecvf.com/content/WACV2023W/RWS/html/Li_EMOD_Efficient_Moving_Object_Detection_via_Image_Eccentricity_Analysis_and_WACVW_2023_paper.html",
+    "pdf_url": "http://openaccess.thecvf.com/content/WACV2023W/RWS/papers/Li_EMOD_Efficient_Moving_Object_Detection_via_Image_Eccentricity_Analysis_and_WACVW_2023_paper.pdf",
+    "published": "2023-01",
+    "summary": "This paper proposes an efficient moving objects detection pipeline focusing on dynamic object detection on video streams captured by traffic monitoring cameras. While developing autonomous vehicle systems, we found that views from self-driving vehicles can be occluded by dynamic or static objects on the street. Whereas infrastructure nodes such as traffic monitoring cameras having broader field-of-views and better perspectives can be used as auxiliary sensors to share traffic information with nearby self-driving cars in real-time. However, these infrastructure cameras usually have constrained computation resources, and detecting hundreds of static background objects in consecutive video frames is wasteful. In our detection pipeline, we leverage the image eccentricity analysis as a pre-processing step to fast generate moving objects segmentation maps. These maps are used to mask the original images to get images that only contain the moving objects in the scene. These sparse images are then passed to an object detection model built with a sparse convolution backbone network, resulting in significant reduction in computational costs. Our quantitative experiments illustrate that the proposed detection pipeline can achieve up to 50% inference speedup with negligible detection accuracy drop in images obtained from traffic monitoring cameras."
+  },
+  "wacv2023_rws_exploitinginter-pixelcorrelationsinunsuperviseddomainadaptationforsemanticsegmentation": {
+    "conf_id": "WACV2023",
+    "conf_sub_id": "RWS",
+    "is_workshop": true,
+    "conf_name": "WACV2023_workshops - Real-World Surveillance: Applications and Challenges",
+    "title": "Exploiting Inter-Pixel Correlations in Unsupervised Domain Adaptation for Semantic Segmentation",
+    "authors": [
+      "Inseop Chung",
+      "Jayeon Yoo",
+      "Nojun Kwak"
+    ],
+    "page_url": "http://openaccess.thecvf.com/content/WACV2023W/RWS/html/Chung_Exploiting_Inter-Pixel_Correlations_in_Unsupervised_Domain_Adaptation_for_Semantic_Segmentation_WACVW_2023_paper.html",
+    "pdf_url": "http://openaccess.thecvf.com/content/WACV2023W/RWS/papers/Chung_Exploiting_Inter-Pixel_Correlations_in_Unsupervised_Domain_Adaptation_for_Semantic_Segmentation_WACVW_2023_paper.pdf",
+    "published": "2023-01",
+    "summary": "\"Self-training\" has become a dominant method for semantic segmentation via unsupervised domain adaptation (UDA). It creates a set of pseudo labels for the target domain to give explicit supervision. However, the pseudo labels are noisy, sparse and do not provide any information about inter-pixel correlations. We regard inter-pixel correlation quite important because semantic segmentation is a task of predicting highly structured pixel-level outputs. Therefore, in this paper, we propose a method of transferring the inter-pixel correlations from the source domain to the target domain via a self-attention module. The module takes the prediction of the segmentation network as an input and creates a self-attended prediction that correlates similar pixels. The module is trained only on the source domain to learn the domain-invariant inter-pixel correlations, then later, it is used to train the segmentation network on the target domain. The network learns not only from the pseudo labels but also by following the output of the self-attention module which provides additional knowledge about the inter-pixel correlations. Through extensive experiments, we show that our method significantly improves the performance on two standard UDA benchmarks and also can be combined with recent state-of-the-art method to achieve better performance."
+  },
+  "wacv2023_rws_meet-in-the-middlemulti-scaleupsamplingandmatchingforcross-resolutionfacerecognition": {
+    "conf_id": "WACV2023",
+    "conf_sub_id": "RWS",
+    "is_workshop": true,
+    "conf_name": "WACV2023_workshops - Real-World Surveillance: Applications and Challenges",
+    "title": "Meet-in-the-Middle: Multi-Scale Upsampling and Matching for Cross-Resolution Face Recognition",
+    "authors": [
+      "Klemen Grm",
+      "Berk Kemal \u00d6zata",
+      "Vitomir \u0160truc",
+      "Haz\u0131m Kemal Ekenel"
+    ],
+    "page_url": "http://openaccess.thecvf.com/content/WACV2023W/RWS/html/Grm_Meet-in-the-Middle_Multi-Scale_Upsampling_and_Matching_for_Cross-Resolution_Face_Recognition_WACVW_2023_paper.html",
+    "pdf_url": "http://openaccess.thecvf.com/content/WACV2023W/RWS/papers/Grm_Meet-in-the-Middle_Multi-Scale_Upsampling_and_Matching_for_Cross-Resolution_Face_Recognition_WACVW_2023_paper.pdf",
+    "published": "2023-01",
+    "summary": "In this paper, we aim to address the large domain gap between high-resolution face images, e.g., from professional portrait photography, and low-quality surveillance images, e.g., from security cameras. Establishing an identity match between disparate sources like this is a classical surveillance face identification scenario, which continues to be a challenging problem for modern face recognition techniques. To that end, we propose a method that combines face super-resolution, resolution matching, and multi-scale template accumulation to reliably recognize faces from long-range surveillance footage, including from low quality sources. The proposed approach does not require training or fine-tuning on the target dataset of real surveillance images. Extensive experiments show that our proposed method is able to outperform even existing methods fine-tuned to the SCFace dataset."
+  },
+  "wacv2023_rws_synthehiclemulti-vehiclemulti-cameratrackinginvirtualcities": {
+    "conf_id": "WACV2023",
+    "conf_sub_id": "RWS",
+    "is_workshop": true,
+    "conf_name": "WACV2023_workshops - Real-World Surveillance: Applications and Challenges",
+    "title": "Synthehicle: Multi-Vehicle Multi-Camera Tracking in Virtual Cities",
+    "authors": [
+      "Fabian Herzog",
+      "Junpeng Chen",
+      "Torben Teepe",
+      "Johannes Gilg",
+      "Stefan H\u00f6rmann",
+      "Gerhard Rigoll"
+    ],
+    "page_url": "http://openaccess.thecvf.com/content/WACV2023W/RWS/html/Herzog_Synthehicle_Multi-Vehicle_Multi-Camera_Tracking_in_Virtual_Cities_WACVW_2023_paper.html",
+    "pdf_url": "http://openaccess.thecvf.com/content/WACV2023W/RWS/papers/Herzog_Synthehicle_Multi-Vehicle_Multi-Camera_Tracking_in_Virtual_Cities_WACVW_2023_paper.pdf",
+    "published": "2023-01",
+    "summary": "Smart City applications such as intelligent traffic routing, accident prevention or vehicle surveillance rely on computer vision methods for exact vehicle localization and tracking. Privacy issues make collecting real data difficult, and labeling data is a time-consuming and costly process. Due to the scarcity of accurately labeled data, detecting and tracking vehicles in 3D from multiple cameras proves challenging to explore. We present a massive synthetic dataset for multiple vehicle tracking and segmentation in multiple overlapping and non-overlapping camera views. Unlike existing datasets, which only provide tracking ground truth for 2D bounding boxes, our dataset additionally contains perfect labels for 3D bounding boxes in camera- and world coordinates, depth estimation, and instance, semantic and panoptic segmentation. The dataset consists of 17 hours of labeled video material, recorded from 340 cameras in 64 diverse day, rain, dawn, and night scenes, making it the most extensive dataset for multi-target multi-camera tracking so far. We provide baselines for detection, vehicle re-identification, and single- and multi-camera tracking. Code and data are publicly available."
+  },
+  "wacv2023_rws_atransformer-basedlate-fusionmechanismforfine-grainedobjectrecognitioninvideos": {
+    "conf_id": "WACV2023",
+    "conf_sub_id": "RWS",
+    "is_workshop": true,
+    "conf_name": "WACV2023_workshops - Real-World Surveillance: Applications and Challenges",
+    "title": "A Transformer-Based Late-Fusion Mechanism for Fine-Grained Object Recognition in Videos",
+    "authors": [
+      "Jannik Koch",
+      "Stefan Wolf",
+      "J\u00fcrgen Beyerer"
+    ],
+    "page_url": "http://openaccess.thecvf.com/content/WACV2023W/RWS/html/Koch_A_Transformer-Based_Late-Fusion_Mechanism_for_Fine-Grained_Object_Recognition_in_Videos_WACVW_2023_paper.html",
+    "pdf_url": "http://openaccess.thecvf.com/content/WACV2023W/RWS/papers/Koch_A_Transformer-Based_Late-Fusion_Mechanism_for_Fine-Grained_Object_Recognition_in_Videos_WACVW_2023_paper.pdf",
+    "published": "2023-01",
+    "summary": "Fine-grained image classification is limited by only considering a single view while in many cases, like surveillance, a whole video exists which provides multiple perspectives. However, the potential of videos is mostly considered in the context of action recognition while fine-grained object recognition is rarely considered as an application for video classification. This leads to recent video classification architectures being inappropriate for the task of fine-grained object recognition. We propose a novel, Transformer-based late-fusion mechanism for fine-grained video classification. Our approach achieves superior results to both early-fusion mechanisms, like the Video Swin Transformer, and a simple consensus-based late-fusion baseline with a modern Swin Transformer backbone. Additionally, we achieve improved efficiency, as our results show a high increase in accuracy with only a slight increase in computational complexity. Code is available at: https://github.com/wolfstefan/tlf."
+  },
+  "wacv2023_rws_multi-viewtargettransformationforpedestriandetection": {
+    "conf_id": "WACV2023",
+    "conf_sub_id": "RWS",
+    "is_workshop": true,
+    "conf_name": "WACV2023_workshops - Real-World Surveillance: Applications and Challenges",
+    "title": "Multi-View Target Transformation for Pedestrian Detection",
+    "authors": [
+      "Wei-Yu Lee",
+      "Ljubomir Jovanov",
+      "Wilfried Philips"
+    ],
+    "page_url": "http://openaccess.thecvf.com/content/WACV2023W/RWS/html/Lee_Multi-View_Target_Transformation_for_Pedestrian_Detection_WACVW_2023_paper.html",
+    "pdf_url": "http://openaccess.thecvf.com/content/WACV2023W/RWS/papers/Lee_Multi-View_Target_Transformation_for_Pedestrian_Detection_WACVW_2023_paper.pdf",
+    "published": "2023-01",
+    "summary": "Occlusion is one of the most challenging problems in single-view pedestrian detection. To alleviate the occlusion problem, multi-view systems have been exploited to fully acquire and recognize blocked targets. Most often, methods from the literature exploit perspective transformation to aggregate different sensing view angles of the scene, but projection distortion issues cause spatial structure break and prevent these methods from fully exploring the projected features. In this paper, we propose a novel approach, Multi-view Target Transformation (MVTT), to address the distortion problem inherent in multi-view aggregation by encoding the full target features and limiting the area of interest of the projected features. Experiment results show that the performance of our proposed method compares favorably against recent relevant methods on public datasets. The ablation studies also confirm the effectiveness of the proposed components."
+  },
+  "wacv2023_rws_low-resolutionthermalsensor-guidedimagesynthesis": {
+    "conf_id": "WACV2023",
+    "conf_sub_id": "RWS",
+    "is_workshop": true,
+    "conf_name": "WACV2023_workshops - Real-World Surveillance: Applications and Challenges",
+    "title": "Low-Resolution Thermal Sensor-Guided Image Synthesis",
+    "authors": [
+      "Sheng-Yang Chiu",
+      "Yu-Chee Tseng",
+      "Jen-Jee Chen"
+    ],
+    "page_url": "http://openaccess.thecvf.com/content/WACV2023W/RWS/html/Chiu_Low-Resolution_Thermal_Sensor-Guided_Image_Synthesis_WACVW_2023_paper.html",
+    "pdf_url": "http://openaccess.thecvf.com/content/WACV2023W/RWS/papers/Chiu_Low-Resolution_Thermal_Sensor-Guided_Image_Synthesis_WACVW_2023_paper.pdf",
+    "published": "2023-01",
+    "summary": "Thermopile array sensors are cost-effective thermal imaging alternatives and are less vulnerable to privacy intrusion, light conditions, and obtrusiveness. While numerous occupant surveillance systems have been developed based on such sensors, low spatial resolutions prohibit them from deriving more sophisticated applications. To help relieve the limitation, we propose to enrich thermopile array sensors with additional non-thermal features and develop, to the best of our knowledge, the first low-resolution thermal-guided image synthesis model capable of producing realistic and attribute-aligned color images. These thermal heatmaps are regarded as semantic maps, but have very low resolutions. We propose an extension of SPADE (Spatially-Adaptive Denormalization), namely SPADE-SR, to incorporate the spatial property of a thermal heatmap into a conditional GAN through iterative Self-Resampling. Compared to SPADE, SPADE-SR yields better results in terms of image quality and reconstruction error while using significantly fewer model parameters. A new LRT-Human (Low-Resolution Thermal Human) dataset comprised of 22k (thermal heatmap, RGB image) pairs with various thermal and non-thermal coupling is derived to support our claims. Our work explores the cross-thermal-RGB modality paradigm and poses a great opportunity for thermopile array sensors in surveillance usages."
+  },
+  "wacv2023_rws_discriminativesamplingofproposalsinself-supervisedtransformersforweaklysupervisedobjectlocalization": {
+    "conf_id": "WACV2023",
+    "conf_sub_id": "RWS",
+    "is_workshop": true,
+    "conf_name": "WACV2023_workshops - Real-World Surveillance: Applications and Challenges",
+    "title": "Discriminative Sampling of Proposals in Self-Supervised Transformers for Weakly Supervised Object Localization",
+    "authors": [
+      "Shakeeb Murtaza",
+      "Soufiane Belharbi",
+      "Marco Pedersoli",
+      "Aydin Sarraf",
+      "Eric Granger"
+    ],
+    "page_url": "http://openaccess.thecvf.com/content/WACV2023W/RWS/html/Murtaza_Discriminative_Sampling_of_Proposals_in_Self-Supervised_Transformers_for_Weakly_Supervised_WACVW_2023_paper.html",
+    "pdf_url": "http://openaccess.thecvf.com/content/WACV2023W/RWS/papers/Murtaza_Discriminative_Sampling_of_Proposals_in_Self-Supervised_Transformers_for_Weakly_Supervised_WACVW_2023_paper.pdf",
+    "published": "2023-01",
+    "summary": "Drones are employed in a growing number of visual recognition applications. A recent development in cell tower inspection is drone-based asset surveillance, where the autonomous flight of a drone is guided by localizing objects of interest in successive aerial images. In this paper, we propose a method to train deep weakly-supervised object localization (WSOL) models based only on image-class labels to locate object with high confidence. To train our localizer, pseudo labels are efficiently harvested from a self-supervised vision transformers (SSTs). However, since SSTs decompose the scene into multiple maps containing various object parts, and do not rely on any explicit supervisory signal, they cannot distinguish between the object of interest and other objects, as required WSOL. To address this issue, we propose leveraging the multiple maps generated by the different transformer heads to acquire pseudo-labels for training a deep WSOL model. In particular, a new Discriminative Proposals Sampling (DiPS) method is introduced that relies on a CNN classifier to identify discriminative regions. Then, foreground and background pixels are sampled from these regions in order to train a WSOL model for generating activation maps that can accurately localize objects belonging to a specific class. Empirical results on the challenging TelDrone dataset indicate that our proposed approach can outperform state-of-art methods over a wide range of threshold values over produced maps. We also computed results on CUB dataset, showing that our method can be adapted for other tasks."
+  },
+  "wacv2023_rws_mixturedomainadaptationtoimprovesemanticsegmentationinreal-worldsurveillance": {
+    "conf_id": "WACV2023",
+    "conf_sub_id": "RWS",
+    "is_workshop": true,
+    "conf_name": "WACV2023_workshops - Real-World Surveillance: Applications and Challenges",
+    "title": "Mixture Domain Adaptation To Improve Semantic Segmentation in Real-World Surveillance",
+    "authors": [
+      "S\u00e9bastien Pi\u00e9rard",
+      "Anthony Cioppa",
+      "Ana\u00efs Halin",
+      "Renaud Vandeghen",
+      "Maxime Zanella",
+      "Beno\u00eet Macq",
+      "Sa\u00efd Mahmoudi",
+      "Marc Van Droogenbroeck"
+    ],
+    "page_url": "http://openaccess.thecvf.com/content/WACV2023W/RWS/html/Pierard_Mixture_Domain_Adaptation_To_Improve_Semantic_Segmentation_in_Real-World_Surveillance_WACVW_2023_paper.html",
+    "pdf_url": "http://openaccess.thecvf.com/content/WACV2023W/RWS/papers/Pierard_Mixture_Domain_Adaptation_To_Improve_Semantic_Segmentation_in_Real-World_Surveillance_WACVW_2023_paper.pdf",
+    "published": "2023-01",
+    "summary": "Various tasks encountered in real-world surveillance can be addressed by determining posteriors (e.g. by Bayesian inference or machine learning), based on which critical decisions must be taken. However, the surveillance domain (acquisition device, operating conditions, etc.) is often unknown, which prevents any possibility of scene-specific optimization. In this paper, we define a probabilistic framework and present a formal proof of an algorithm for the unsupervised many-to-infinity domain adaptation of posteriors. Our proposed algorithm is applicable when the probability measure associated with the target domain is a convex combination of the probability measures of the source domains. It makes use of source models and a domain discriminator model trained off-line to compute posteriors adapted on the fly to the target domain. Finally, we show the effectiveness of our algorithm for the task of semantic segmentation in real-world surveillance. The code is publicly available at https://github.com/rvandeghen/MDA."
+  },
+  "wacv2023_rws_vdiscanopensourceframeworkfordistributedsmartcityvisionandbiometricsurveillancenetworks": {
+    "conf_id": "WACV2023",
+    "conf_sub_id": "RWS",
+    "is_workshop": true,
+    "conf_name": "WACV2023_workshops - Real-World Surveillance: Applications and Challenges",
+    "title": "VDiSC: An Open Source Framework for Distributed Smart City Vision and Biometric Surveillance Networks",
+    "authors": [
+      "Joel Brogan",
+      "Nell Barber",
+      "David Cornett",
+      "David Bolme"
+    ],
+    "page_url": "http://openaccess.thecvf.com/content/WACV2023W/RWS/html/Brogan_VDiSC_An_Open_Source_Framework_for_Distributed_Smart_City_Vision_WACVW_2023_paper.html",
+    "pdf_url": "http://openaccess.thecvf.com/content/WACV2023W/RWS/papers/Brogan_VDiSC_An_Open_Source_Framework_for_Distributed_Smart_City_Vision_WACVW_2023_paper.pdf",
+    "published": "2023-01",
+    "summary": "Recent global growth in the interest of smart cities has led to trillions of dollars of investment toward research and development. These connected cities have the potential to create a symbiosis of technology and society and revolutionize the cost of living, safety, ecological sustainability, and quality of life of societies on a world-wide scale. Some key components of the smart city construct are connected smart grids, self-driving cars, federated learning systems, smart utilities, large-scale public transit, and proactive surveillance systems. While exciting in prospect, these technologies and their subsequent integration cannot be attempted without addressing the potential societal impacts of such a high degree of automation and data sharing. Additionally, the feasibility of coordinating so many disparate tasks will require a fast, extensible, unifying framework. To that end, we propose the Distributed Smart City framework for Vision, or VDiSC. VDiSC serves as a unified biometric API harness that allows for seamless evaluation, deployment, and simple pipeline creation for heterogeneous biometric software. VDiSC additionally provides a fully declarative capability for defining and coordinating custom machine learning and sensor pipelines, allowing the distribution of processes across otherwise incompatible hardware and networks. VDiSC ultimately provides a way to quickly configure, hot-swap, and expand large coordinated or federated systems online without interruptions for maintenance. Because much of the data collected in a smart city contains Personally Identifying Information (PII), VDiSC also provides built-in tools and layers to ensure secure and encrypted streaming, storage, and access of PII data across distributed systems."
+  },
+  "wacv2023_rws_knowledge-basedvisualcontext-awareframeworkforapplicationsinroboticservices": {
+    "conf_id": "WACV2023",
+    "conf_sub_id": "RWS",
+    "is_workshop": true,
+    "conf_name": "WACV2023_workshops - Real-World Surveillance: Applications and Challenges",
+    "title": "Knowledge-Based Visual Context-Aware Framework for Applications in Robotic Services",
+    "authors": [
+      "Doosoo Chang",
+      "Bohyung Han"
+    ],
+    "page_url": "http://openaccess.thecvf.com/content/WACV2023W/RWS/html/Chang_Knowledge-Based_Visual_Context-Aware_Framework_for_Applications_in_Robotic_Services_WACVW_2023_paper.html",
+    "pdf_url": "http://openaccess.thecvf.com/content/WACV2023W/RWS/papers/Chang_Knowledge-Based_Visual_Context-Aware_Framework_for_Applications_in_Robotic_Services_WACVW_2023_paper.pdf",
+    "published": "2023-01",
+    "summary": "Recently, context awareness in vision technologies has become essential with the increasing demand for real-world applications, such as surveillance systems and service robots.|However, implementing context awareness with an end-to-end learning-based system limits its extensibility and performance because the context varies in scope and type, but related data are mostly rare.|To mitigate these limitations, we propose a visual context-aware framework composed of independent processes of visual perception and context inference.|The framework performs logical inferences using the abstracted visual information of recognized objects and relationships based on our knowledge representation.|We demonstrate the scalability and utility of the proposed framework through experimental cases that present stepwise context inferences applied to robotic services in different domains."
+  },
+  "wacv2023_rws_exploitingtemporalcontextfortinyobjectdetection": {
+    "conf_id": "WACV2023",
+    "conf_sub_id": "RWS",
+    "is_workshop": true,
+    "conf_name": "WACV2023_workshops - Real-World Surveillance: Applications and Challenges",
+    "title": "Exploiting Temporal Context for Tiny Object Detection",
+    "authors": [
+      "Christof W. Corsel",
+      "Michel van Lier",
+      "Leo Kampmeijer",
+      "Nicolas Boehrer",
+      "Erwin M. Bakker"
+    ],
+    "page_url": "http://openaccess.thecvf.com/content/WACV2023W/RWS/html/Corsel_Exploiting_Temporal_Context_for_Tiny_Object_Detection_WACVW_2023_paper.html",
+    "pdf_url": "http://openaccess.thecvf.com/content/WACV2023W/RWS/papers/Corsel_Exploiting_Temporal_Context_for_Tiny_Object_Detection_WACVW_2023_paper.pdf",
+    "published": "2023-01",
+    "summary": "In surveillance applications, the detection of tiny, low-resolution objects remains a challenging task. Most deep learning object detection methods rely on appearance features extracted from still images and struggle to accurately detect tiny objects. In this paper, we address the problem of tiny object detection for real-time surveillance applications, by exploiting the temporal context available in video sequences recorded from static cameras. We present a spatio-temporal deep learning model based on YOLOv5 that exploits temporal context by processing sequences of frames at once. The model drastically improves the identification of tiny moving objects in the aerial surveillance and person detection domains, without degrading the detection of stationary objects. Additionally, a two-stream architecture that uses frame-difference as explicit motion information was proposed, further improving the detection of moving objects down to 4 by 4 pixels in size. Our approaches outperform previous work on the public WPAFB WAMI dataset, as well as surpassing previous work on an embedded NVIDIA Jetson Nano deployment in both accuracy and inference speed. We conclude that the addition of temporal context to deep learning object detectors is an effective approach to drastically improve the detection of tiny moving objects in static videos."
+  }
+}
